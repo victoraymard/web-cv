@@ -1425,9 +1425,7 @@ time:hover{
 
   .timeline ul li:nth-child(even) div { left: -289px; /*250+45-6*/
   }
-  #mon-parcours{
-    height: 1350px;
-  }
+
 }
 
 @media screen and (max-width: 600px) {
@@ -1443,24 +1441,18 @@ time:hover{
     border-width: 8px 16px 8px 0;
     border-color: transparent rgba(0,0,0,0.3) transparent transparent;
   }
-  #mon-parcours{
-    height: 1200px;
-  }
+
 }
 
 @media screen and (max-width: 405px) {
-  #mon-parcours{
-    height: 1500px;
-  }
+
   .container{
     width: auto;
   }
 }
 
 @media screen and (max-width: 378px) {
-  #mon-parcours{
-    height: 1300px;
-  }
+
   .container{
     width: auto;
   }
