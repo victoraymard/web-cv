@@ -1547,14 +1547,14 @@ time:hover{
   transition: 0.4s linear;
   height: .7rem;
   height: .7rem;
-  width: 60%;
+  width: 75%;
   animation: progressAnimation4 6s;
   background-color: #462FBE;
 }
 
 @keyframes progressAnimation4 {
   0%   { width: 5%; background-color: lightskyblue;}
-  100% { width: 60%; background-color: #462FBE; }
+  100% { width: 75%; background-color: #462FBE; }
 }
 
 .MultiCarousel-inner .item{
