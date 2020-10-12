@@ -969,7 +969,7 @@
                                 <div>
                                     <form method="post" action="mail.php">
                                         <label>Tape ton message ici pour m'écrire</label>
-                                        <textarea rows="10" cols="30" name="message"></textarea>
+                                        <textarea rows="10" cols="30" name="message" id="message"></textarea>
                                         <input type="submit">
                                     </form>
                                 </div>
