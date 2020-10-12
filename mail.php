@@ -19,6 +19,8 @@ else {
 }
 ?>
 
-cimer gros
+on devrait avoir le message ici
+<?php echo htmlspecialchars($_POST['message']); ?>
+
 </body>
 </html>
