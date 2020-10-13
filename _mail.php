@@ -2,6 +2,7 @@
 
 require 'lib/mailjetPHP/src/Mailjet/Client.php';
 require 'lib/mailjetPHP/src/Mailjet/Resources.php';
+require 'lib/mailjetPHP/src/Mailjet/Config.php';
 
 use Mailjet\Client;
 use Mailjet\Resources;
