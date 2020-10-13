@@ -1,37 +1,58 @@
 <?php
 
-require 'lib/mailjetPHP/src/Mailjet/Client.php';
-require 'lib/mailjetPHP/src/Mailjet/Resources.php';
-require 'lib/mailjetPHP/src/Mailjet/Config.php';
 
-use Mailjet\Client;
-use Mailjet\Resources;
+use PHPMailer\PHPMailer\PHPMailer;
+use PHPMailer\PHPMailer\Exception;
+
+require 'lib/PHPMailer/src/Exception.php';
+require 'lib/PHPMailer/src/PHPMailer.php';
+require 'lib/PHPMailer/src/SMTP.php';
 
 
-$mj = new Client('2423def9caeb967083ac0089d90ffcaf','47e244ed9285db75ae5d4398423f9fe5',true,['version' => 'v3.1']);
+// Instantiation and passing `true` enables exceptions
+$mail = new PHPMailer(true);
 
-$body = [
-    'Messages' => [
-        [
-            'From' => [
-                'Email' => "victor.aymard@edu.ece.fr",
-                'Name' => "victor"
-            ],
-            'To' => [
-                [
-                    'Email' => "victor.aymard@edu.ece.fr",
-                    'Name' => "victor"
-                ]
-            ],
-            'Subject' => "Greetings from Mailjet.",
-            'TextPart' => "My first Mailjet email " ,
-            'HTMLPart' => "<h3>Dear passenger 1, welcome to <a href='https://www.mailjet.com/'>Mailjet</a>!</h3><br />May the delivery force be with you!",
-            'CustomID' => "AppGettingStartedTest"
-        ]
-    ]
-];
-$response = $mj->post(Resources::$Email, ['body' => $body]);
-$response->success() && var_dump($response->getData());
+try {
+    //Server settings
+    $mail->SMTPDebug = SMTP::DEBUG_SERVER;                      // Enable verbose debug output
+    $mail->isSMTP();                                            // Send using SMTP
+    $mail->Host       = 'in-v3.mailjet.com';                    // Set the SMTP server to send through
+    $mail->SMTPAuth   = true;                                   // Enable SMTP authentication
+    $mail->Username   = '2423def9caeb967083ac0089d90ffcaf';                     // SMTP username
+    $mail->Password   = '47e244ed9285db75ae5d4398423f9fe5';                               // SMTP password
+    $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;         // Enable TLS encryption; `PHPMailer::ENCRYPTION_SMTPS` encouraged
+    $mail->Port       = 587;                                    // TCP port to connect to, use 465 for `PHPMailer::ENCRYPTION_SMTPS` above
+
+    //Recipients
+    $mail->setFrom('teubi@example.com', 'Mailer');
+    $mail->addAddress('victor.aymard@edu.ece.fr', 'User');     // Add a recipient
+    //$mail->addAddress('ellen@example.com');               // Name is optional
+    //$mail->addReplyTo('info@example.com', 'Information');
+    //$mail->addCC('cc@example.com');
+    //$mail->addBCC('bcc@example.com');
+
+    // Attachments
+    //$mail->addAttachment('/var/tmp/file.tar.gz');         // Add attachments
+    //$mail->addAttachment('/tmp/image.jpg', 'new.jpg');    // Optional name
+
+    // Content
+    $mail->isHTML(true);                                  // Set email format to HTML
+    $mail->Subject = 'Objet du mail';
+    $mail->Body    = 'This is the HTML message body <b>in bold!</b>';
+    $mail->AltBody = 'This is the body in plain text for non-HTML mail clients'; //format texte
+
+    $mail->send();
+    echo 'Message has been sent';
+} catch (Exception $e) {
+    echo "Message could not be sent. Mailer Error: {$mail->ErrorInfo}";
+}
+
+
+
+
+
+
+
 ?>
 
 
