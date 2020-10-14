@@ -3,6 +3,7 @@
 
 use PHPMailer\PHPMailer\PHPMailer;
 use PHPMailer\PHPMailer\Exception;
+use PHPMailer\PHPMailer\SMTP;
 
 require 'lib/PHPMailer/src/Exception.php';
 require 'lib/PHPMailer/src/PHPMailer.php';
@@ -14,7 +15,7 @@ $mail = new PHPMailer(true);
 
 try {
     //Server settings
-    $mail->SMTPDebug = SMTP::DEBUG_SERVER;                      // Enable verbose debug output
+   // $mail->SMTPDebug = SMTP::DEBUG_SERVER;                      // Enable verbose debug output - our voir les logs
     $mail->isSMTP();                                            // Send using SMTP
     $mail->Host       = 'in-v3.mailjet.com';                    // Set the SMTP server to send through
     $mail->SMTPAuth   = true;                                   // Enable SMTP authentication
@@ -24,7 +25,7 @@ try {
     $mail->Port       = 587;                                    // TCP port to connect to, use 465 for `PHPMailer::ENCRYPTION_SMTPS` above
 
     //Recipients
-    $mail->setFrom('teubi@example.com', 'Mailer');
+    $mail->setFrom('victor.aymard@edu.ece.fr', 'Mon site web');
     $mail->addAddress('victor.aymard@edu.ece.fr', 'User');     // Add a recipient
     //$mail->addAddress('ellen@example.com');               // Name is optional
     //$mail->addReplyTo('info@example.com', 'Information');
@@ -38,11 +39,14 @@ try {
     // Content
     $mail->isHTML(true);                                  // Set email format to HTML
     $mail->Subject = 'Objet du mail';
-    $mail->Body    = 'This is the HTML message body <b>in bold!</b>';
+    $mail->Body    = 'This is the HTML message body <b>in bold!</b>'.$_POST['message']; //concaténation se fait avec un point
     $mail->AltBody = 'This is the body in plain text for non-HTML mail clients'; //format texte
 
     $mail->send();
-    echo 'Message has been sent';
+    echo '<div>
+                <img src="img/mailOK.png">
+                Message has been sent
+           </div>';
 } catch (Exception $e) {
     echo "Message could not be sent. Mailer Error: {$mail->ErrorInfo}";
 }
