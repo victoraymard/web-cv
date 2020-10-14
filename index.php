@@ -1031,7 +1031,7 @@
                                         <li><a href="https://www.linkedin.com/in/victor-aymard-324b75150/" target="_blank"><span class="ico-circle"><i class="ion-social-linkedin"></i></span></a></li>
                                         <li><a href="https://github.com/victoraymard" target="_blank"><span class="ico-circle"><i class="ion-social-github"></i></span></a></li>
                                         <li><a href="https://dribbble.com/bosetti" target="_blank"><span class="ico-circle"><i class="ion-social-dribbble"></i></span></a></li>
-                                        <li><a href="./gallerie/gallerie-confiné/index.html" target="_blank"><span class="ico-circle"><i class="ion-social-instagram"></i></span></a></li>
+                                        <!--<li><a href="./gallerie/gallerie-confiné/index.html" target="_blank"><span class="ico-circle"><i class="ion-social-instagram"></i></span></a></li>-->
                                     </ul>
                                 </div>
                             </div>
@@ -1065,7 +1065,7 @@
 <!--/ Section Contact-footer End /-->
 
 <!--<a href="./cv.pdf" download class="back-to-top"> <p>Mon CV</p> <i class="fa fa-download"></i></a>-->
-<a href="./cv.pdf" download class="back-to-top-bis "><p>Mon CV</p><i class="fa fa-download"></i> </a>
+<a href="./cv%20Victor%20Aymard.pdf" download class="back-to-top-bis "><p>Mon CV</p><i class="fa fa-download"></i> </a>
 <div id="preloader"></div>
 
 <!-- JavaScript Libraries -->
