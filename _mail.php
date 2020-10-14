@@ -38,17 +38,14 @@ try {
 
     // Content
     $mail->isHTML(true);                                  // Set email format to HTML
-    $mail->Subject = 'Objet du mail';
-    $mail->Body    = 'This is the HTML message body <b>in bold!</b>'.$_POST['message']; //concaténation se fait avec un point
+    $mail->Subject = 'Objet du mail : '.$_POST['subject'];
+    $mail->Body    = 'Hello Victor, un nouveau message a été laissé sur ton site :<br>'.$_POST['message'].'<br> par : '.$_POST['name'].' dont le mail est : '.$_POST['mail']; //concaténation se fait avec un point
     $mail->AltBody = 'This is the body in plain text for non-HTML mail clients'; //format texte
 
     $mail->send();
-    echo '<div>
-                <img src="img/mailOK.png">
-                Message has been sent
-           </div>';
+    echo "Votre message m'a bien été envoyé. Merci Beaucoup !";
 } catch (Exception $e) {
-    echo "Message could not be sent. Mailer Error: {$mail->ErrorInfo}";
+    echo "Ousp! un petit problème fait que votre message n'a pas pu m'être transmis... Voilà le coupable: {$mail->ErrorInfo}";
 }
 
 
