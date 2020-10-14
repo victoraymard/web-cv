@@ -967,11 +967,45 @@
                                     </h5>
                                 </div>
                                 <div>
-                                    <form method="post" action="_mail.php">
+                                    <!--<form method="post" action="_mail.php">
                                         <label>Tape ton message ici pour m'écrire</label>
                                         <textarea rows="10" cols="30" name="message" id="message"></textarea>
                                         <input type="submit">
+                                    </form>-->
+                                    <form action="_mail.php" method="post" role="form" class="contactForm">
+                                        <div id="sendmessage">Votre message a bien été envoyé. Merci Beaucoup !</div>
+                                        <div id="errormessage"></div>
+                                        <div class="row">
+                                            <div class="col-md-12 mb-3">
+                                                <div class="form-group">
+                                                    <input type="text" class="form-control" name="name" id="name" placeholder="Votre nom" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
+                                                    <div class="validation"></div>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-12 mb-3">
+                                                <div class="form-group">
+                                                    <input type="email" class="form-control" name="email" id="email" placeholder="Votre email" data-rule="email" data-msg="Please enter a valid email" />
+                                                    <div class="validation"></div>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-12 mb-3">
+                                                <div class="form-group">
+                                                    <input type="text" class="form-control" name="subject" id="subject" placeholder="Objet" data-rule="minlen:4" data-msg="Please enter at least 8 chars of subject" />
+                                                    <div class="validation"></div>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-12 mb-3">
+                                                <div class="form-group">
+                                                    <textarea class="form-control" name="message" id="message" rows="5" data-rule="required" data-msg="Please write something for us" placeholder="Votre message"></textarea>
+                                                    <div class="validation"></div>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-12">
+                                                <button type="submit" class="button button-a button-big button-rouded">Envoyez-le!</button>
+                                            </div>
+                                        </div>
                                     </form>
+
                                 </div>
                             </div>
                             <div class="col-md-6">
