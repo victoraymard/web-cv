@@ -1,6 +1,3 @@
-Thanks for downloading this theme!
-
-Theme Name: DevFolio
-Theme URL: https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/
-Author: BootstrapMade.com
-Author URL: https://bootstrapmade.com
+#Yo, voici le code de mon CV web :)
+C'est vraiment très sale, désolé par avance
+Voilà le thème dont je me suis inspiré : https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/
