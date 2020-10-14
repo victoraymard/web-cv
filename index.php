@@ -7,18 +7,12 @@
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="" name="keywords">
     <meta content="" name="description">
-    <!-- TODO expérience et hobies
-      TODO pour les chifres : 22ans / 3langues... -->
+
     <!-- Favicons -->
     <link href="img/favicon-m.png" rel="icon">
     <link href="img/apple-touch-icon.png" rel="apple-touch-icon">
 
     <!-- caroussel -->
-    <!--<link href="css/Caroussel.css" rel="stylesheet">-->
-    <!--<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
-    <script src="//code.jquery.com/jquery-1.11.1.min.js"></script>-->
-    <!--<script src="js/caroussel.js"></script>-->
-    <!--Carousel 2.0 pour les hobbies-->
     <script src="js/carousel.js"></script>
 
     <!-- Bootstrap CSS File -->
@@ -28,7 +22,6 @@
     <link href="lib/font-awesome/css/font-awesome.min.css" rel="stylesheet">
     <link href="lib/animate/animate.min.css" rel="stylesheet">
     <link href="lib/ionicons/css/ionicons.min.css" rel="stylesheet">
-    <!--<link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">-->
     <link href="lib/lightbox/css/lightbox.min.css" rel="stylesheet">
     <link href="css/carousel.css" rel="stylesheet"> <!--carousel 2.0 pour les hobbies-->
 
@@ -38,13 +31,6 @@
     <!-- Timeline Stylesheet File -->
     <link href="css/timeline.css" rel="stylesheet">
 
-
-    <!-- =======================================================
-      Theme Name: DevFolio
-      Theme URL: https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/
-      Author: BootstrapMade.com
-      License: https://bootstrapmade.com/license/
-      ======================================================= -->
 </head>
 
 <body id="page-top">
@@ -127,7 +113,6 @@
                                 <p class="title-s">Connaissances</p>
 
 
-
                                 <span>UI/UX design</span> <span class="pull-right"></span>
                                 <div class="containerok">
                                     <div class="progress-movedok">
@@ -192,77 +177,6 @@
     </div>
 </section>
 
-<!--<section id="about" class="about-mf sect-pt4 route">
-  <div class="container">
-    <div class="row">
-      <div class="">
-        <div class="box-shadow-full">
-          <div class="row" style="display: flex">
-            <div class="" style="flex: 3;">
-              <div class="row" style="display: flex">
-                <div class="" >
-                  <div class="about-img" style="padding-right: 10%">
-                    <img src="img/enBref/enBrefPict.png" class="img-fluid" alt="" style="padding-right: 0">
-                  </div>
-                </div>
-                <div class="justify-content-center align-items-sm-start" style="display:flex; flex-direction:column;">
-                  <div class="about-info">
-                    <p><span class="title-s">Nom: </span> <span>Victor Aymard</span></p>
-                    <p><span class="title-s">Profile: </span> <span>Etudiant ingénieur en master</span></p>
-                    <p><span class="title-s">Email: </span> <span><a href="mailto:victor.aymard@edu.ece.fr?subject=Tu cherches un stage?&body=Bonjour Victor, vous ne me connaissez pas, mais je sens que nous allons bien nous entendre!" target="_blank">victor.aymard@edu.ece.fr</a></span></p>
-                    <p><span class="title-s">Téléphone: </span> <span>+33 6 40 46 32 49</span></p>
-                  </div>
-                </div>
-              </div>
-              <div class="skill-mf"style="display: flex; flex-direction: column;">
-                <p class="title-s">Connaissances</p>
-
-
-                <div style="display: flex; flex-direction: row;">
-                  <img src="./img/enBref/code.png">
-                  <img src="./img/enBref/code.png">
-                </div>
-                <div style="display: flex; flex-direction: row;">
-                  <img src="./img/enBref/code.png">
-                  <img src="./img/enBref/code.png">
-                </div>
-
-
-
-
-
-              </div>
-            </div>
-            <div class="col-md-6" style="flex: 2">
-              <div class="about-me pt-4 pt-md-0">
-                <div class="title-box-2">
-                  <h5 class="title-left">
-                    En bref
-                  </h5>
-                </div>
-                <p class="lead">
-                  Je recherche <strong id="rechercheDeStage">une alternance de 12 mois à partir d’avril 2021 </strong>
-                  pour approfondir mes connaissances dans l’UI / UX design.
-                </p>
-                <p class="lead">
-                  Actuellement en dernière année au sein de l’Ecole Centrale d’Electronique (ECE) de
-                  Paris. j'y ai choisi la majeure "Objets Connectés Réseaux et Services". Au travers de celle-ci, j'ai
-                  pu me perfectionner en développement web, ainsi qu'acquérir de nombreuses connaissances utiles via
-                  des cours de gamification, de design thinking, et de gestion de projet.
-                <p/>
-                <p class="lead">
-                  Dès Avril prochain, je compte commencer un double diplôme en UX management et design thinking afin
-                  de mieux comprendre ce monde qui fait la jonction entre design et ingénieurie. Permettant alors de
-                  réduire le temps de release de produits software mais pas uniquement.
-                </p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>-->
 
 <!--/ Section Services Star /-->
 <section id="service" class="services-mf route">
@@ -623,18 +537,6 @@
                             </div>
                         </li>
 
-                        <!--<li>
-                          <div>
-                            <a title="Plus d'infos sur l'UiO" href="https://www.uio.no/english/" target="_blank">
-                              <time>Aout 2020</time>
-                            </a>
-                            <article style="display: flex; flex-direction: row; justify-content: center; align-items: center">
-                              <p>Départ pour un semestre à l'univesité d'Oslo en Norvège en computer science.</p>
-                              <img src="img/UiO.png" style="width: 40%;">
-                            </article>
-                          </div>
-                        </li>-->
-
                         <li>
                             <div>
                                 <a title="Plus d'infos sur la majeure OCRES" href="https://www.ece.fr/ecole-ingenieur/cursus/specialisations/majeures/objets-connectes-reseaux-et-services/" target="_blank">
@@ -709,8 +611,6 @@
 <!--/ Section Blog Star /-->
 <section id="blog" class="blog-mf sect-pt4 route">
 
-
-
     <div class="container">
         <div class="row">
             <div class="col-sm-12">
@@ -726,15 +626,11 @@
             </div>
         </div>
 
-
-
-
         <div class="container text-center my-3">
 
             <div class="row mx-auto my-auto">
                 <div id="recipeCarousel" class="carousel slide w-100" data-ride="carousel">
                     <div class="carousel-inner w-100" role="listbox">
-
 
                         <div class="carousel-item">
                             <div class="col-md-4">
@@ -783,7 +679,6 @@
                                 </div>
                             </div>
                         </div>
-
 
                         <div class="carousel-item">
                             <div class="col-md-4">
@@ -852,39 +747,6 @@
                             </div>
                         </div>
 
-                        <!--<div class="carousel-item">
-                          <div class="col-md-4">
-                            <div class="card card-body">
-
-                              <div class="card-img">
-                                <a target="_blank"><img src="img/long1.jpg" alt="" class="img-fluid"></a>
-                              </div>
-                              <div class="card-body">
-                                <div class="card-category-box">
-                                  <div class="card-category">
-                                    <h6 class="category">Longboarding</h6>
-                                  </div>
-                                </div>
-                                <h3 class="card-title">Sport</h3>
-                                <p class="card-description">
-                                  Entre moyen de locomotion et sport artistique avec le longboard dancing, vous me verrez rarement sans
-                                  ma fidèle planche à roulette.
-                                </p>
-                              </div>
-
-                            </div>
-                          </div>
-                        </div>-->
-
-
-
-
-                        <!-- ajout hobbie
-                        <div class="carousel-item">
-                          <div class="col-md-4">
-                            coller un truc ici
-                          </div>
-                        </div>-->
 
                     </div>
                     <a class="carousel-control-prev w-auto" href="#recipeCarousel" role="button" data-slide="prev">
@@ -946,8 +808,6 @@
     </div>
 </div>
 
-
-
 <!--/ Section Blog End /-->
 
 
@@ -967,11 +827,6 @@
                                     </h5>
                                 </div>
                                 <div>
-                                    <!--<form method="post" action="_mail.php">
-                                        <label>Tape ton message ici pour m'écrire</label>
-                                        <textarea rows="10" cols="30" name="message" id="message"></textarea>
-                                        <input type="submit">
-                                    </form>-->
                                     <form action="_mail.php" method="post" role="form" class="contactForm">
                                         <div id="sendmessage">Votre message a bien été envoyé. Merci Beaucoup !</div>
                                         <div id="errormessage"></div>
@@ -1031,7 +886,6 @@
                                         <li><a href="https://www.linkedin.com/in/victor-aymard-324b75150/" target="_blank"><span class="ico-circle"><i class="ion-social-linkedin"></i></span></a></li>
                                         <li><a href="https://github.com/victoraymard" target="_blank"><span class="ico-circle"><i class="ion-social-github"></i></span></a></li>
                                         <li><a href="https://dribbble.com/bosetti" target="_blank"><span class="ico-circle"><i class="ion-social-dribbble"></i></span></a></li>
-                                        <!--<li><a href="./gallerie/gallerie-confiné/index.html" target="_blank"><span class="ico-circle"><i class="ion-social-instagram"></i></span></a></li>-->
                                     </ul>
                                 </div>
                             </div>
@@ -1046,7 +900,6 @@
             <div class="row">
                 <div class="col-sm-12">
                     <div class="copyright-box">
-                        <!--<p class="copyright">&copy; Copyright <strong>DevFolio</strong>. All Rights Reserved</p>-->
                         <div class="credits">
                             <!--
                               All the links in the footer should remain intact.
@@ -1064,7 +917,6 @@
 </section>
 <!--/ Section Contact-footer End /-->
 
-<!--<a href="./cv.pdf" download class="back-to-top"> <p>Mon CV</p> <i class="fa fa-download"></i></a>-->
 <a href="./cv%20Victor%20Aymard.pdf" download class="back-to-top-bis "><p>Mon CV</p><i class="fa fa-download"></i> </a>
 <div id="preloader"></div>
 
