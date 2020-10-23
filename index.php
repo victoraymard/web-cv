@@ -84,6 +84,11 @@
                 <li class="nav-item">
                     <a class="nav-link js-scroll" href="#contact">Contact</a>
                 </li>
+                <li class="nav-item" style="margin-top: 5px">
+                    <a href="en/index.php" >
+                        <img src="img/fr.png" style="max-height: 25px" alt="">
+                    </a>
+                </li>
             </ul>
         </div>
     </div>
