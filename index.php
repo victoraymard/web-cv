@@ -2,16 +2,15 @@
 <!DOCTYPE html>
 <html lang="fr">
 
+
+
+
+
+
 <!--
     Non mais oh! ça ne se fait pas de regarder les gens tous nu comme ça, fermez cette page et remettez moi mon CSS tout
     de suite !
 -->
-
-
-
-
-
-
 
 
 
@@ -30,7 +29,7 @@
 
     <!-- Favicons -->
     <link href="img/favicon-m.png" rel="icon">
-    <link href="img/apple-touch-icon.png" rel="apple-touch-icon">
+    <!--<link href="img/apple-touch-icon.png" rel="apple-touch-icon">-->
 
     <!-- caroussel -->
     <script src="js/carousel.js"></script>
@@ -182,7 +181,7 @@
                                     Paris. j'y ai choisi la majeure "Objets Connectés Réseaux et Services". Au travers de celle-ci, j'ai
                                     pu me perfectionner en développement web, ainsi qu'acquérir de nombreuses connaissances utiles via
                                     des cours de gamification, de design thinking, et de gestion de projet.
-                                <p/>
+                                </p>
                                 <p class="lead">
                                     Dès Avril prochain, je compte commencer un double diplôme en UX management et design thinking afin
                                     de mieux comprendre ce monde qui fait la jonction entre design et ingénieurie. Permettant alors de
@@ -552,7 +551,7 @@
                                 </a>
                                 <article style="display: flex; flex-direction: row; justify-content: center; align-items: center">
                                     <p>Début d'un double diplôme en alternance en UX management & design thinking.</p>
-                                    <img src="img/sup_de_pub.png" style="width: 50%;">
+                                    <img src="img/sup_de_pub.png" style="width: 50%;" alt="">
                                 </article>
                             </div>
                         </li>
@@ -564,7 +563,7 @@
                                 </a>
                                 <article style="display: flex; flex-direction: row; justify-content: center; align-items: center">
                                     <p>Master à l'ECE au sein de la majeure Objets Connectés, Réseaux Et Services.</p>
-                                    <img src="img/logo_ocres.png" style="width: 40%; height: 20%">
+                                    <img src="img/logo_ocres.png" style="width: 40%; height: 20%" alt="">
                                 </article>
 
 
@@ -578,7 +577,7 @@
                                 </a>
                                 <article style="display: flex; flex-direction: row; justify-content: center; align-items: center">
                                     <p>Départ pour un semestre à l'univesité de Malmö en Suède en computer science.</p>
-                                    <img src="img/malmo.png" style="width: 25%;">
+                                    <img src="img/malmo.png" style="width: 25%;" alt="">
                                 </article>
                             </div>
                         </li>
@@ -590,7 +589,7 @@
                                 </a>
                                 <article style="display: flex; flex-direction: row; justify-content: center; align-items: center">
                                     <p>Passerelle entre l'EPFL et l'ECE Paris.</p>
-                                    <img src="img/logo_ece.png" style="width: 50%">
+                                    <img src="img/logo_ece.png" style="width: 50%" alt="">
                                 </article>
                             </div>
                         </li>
@@ -602,7 +601,7 @@
                                 </a>
                                 <article style="display: flex; flex-direction: row; justify-content: center; align-items: center">
                                     <p>Entrée à l'EPFL en section Microtechnique.</p>
-                                    <img src="img/EPFL_Logo_2019.png" style="width: 30%">
+                                    <img src="img/EPFL_Logo_2019.png" style="width: 30%" alt="">
                                 </article>
                             </div>
                         </li>
@@ -614,7 +613,7 @@
                                 </a>
                                 <article style="display: flex; flex-direction: row; justify-content: center; align-items: center">
                                     <p>Obtention du Baccalauréat S, mention très bien.</p>
-                                    <img src="img/logo_bac.png" style="width: 30%;">
+                                    <img src="img/logo_bac.png" style="width: 30%;" alt="">
                                 </article>
                             </div>
                         </li>
@@ -770,18 +769,17 @@
 
                     </div>
                     <a class="carousel-control-prev w-auto" href="#recipeCarousel" role="button" data-slide="prev">
-                        <img src="img/arrow-left.png" aria-hidden="true" style="width: 10%; margin-right: 106%">
+                        <img src="img/arrow-left.png" aria-hidden="true" style="width: 10%; margin-right: 106%" alt="">
                         <span class="sr-only">Previous</span>
                     </a>
                     <a class="carousel-control-next w-auto" href="#recipeCarousel" role="button" data-slide="next">
-                        <img src="img/arrow-right.png" aria-hidden="true" style="width: 10%; margin-left: 106%">
+                        <img src="img/arrow-right.png" aria-hidden="true" style="width: 10%; margin-left: 106%" alt="">
                         <!--<span class="carousel-control-next-icon bg-dark border border-dark rounded-circle" aria-hidden="true"></span>-->
                         <span class="sr-only">Next</span>
                     </a>
                 </div>
             </div>
         </div>
-    </div>
     </div>
 </section>
 

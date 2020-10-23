@@ -10,7 +10,7 @@
 
     <!-- Favicons -->
     <link href="../img/favicon-m.png" rel="icon">
-    <link href="../img/apple-touch-icon.png" rel="apple-touch-icon">
+    <!--<link href="../img/apple-touch-icon.png" rel="apple-touch-icon">-->
 
     <!-- caroussel -->
     <script src="../js/carousel.js"></script>
@@ -57,7 +57,7 @@ My knoledge
                     <a class="nav-link js-scroll" href="#work">My Experiences</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link js-scroll" href="#mon-parcours">My career path</a>
+                    <a class="nav-link js-scroll" href="#mon-parcours">Education</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link js-scroll" href="#blog">Hobbies</a>
@@ -524,7 +524,7 @@ My knoledge
 
             <div>
                 <section class="timeline"  style="height: 100%">
-                    <h3 class="title-a" style="justify-content: center; text-align: center; color: rgba(255, 255, 255, 0.8)">My career path</h3>
+                    <h3 class="title-a" style="justify-content: center; text-align: center; color: rgba(255, 255, 255, 0.8)">Education</h3>
                     <ul>
 
                         <li>
@@ -560,7 +560,7 @@ My knoledge
                                 </a>
                                 <article style="display: flex; flex-direction: row; justify-content: center; align-items: center">
                                     <p>Departure for a semester at the University of Malmö in Sweden in computer science.</p>
-                                    <img src="../img/malmo.png" style="width: 25%;alt=""">
+                                    <img src="../img/malmo.png" style="width: 25%" alt="">
                                 </article>
                             </div>
                         </li>
@@ -757,11 +757,11 @@ My knoledge
 
                     </div>
                     <a class="carousel-control-prev w-auto" href="#recipeCarousel" role="button" data-slide="prev">
-                        <img src="../img/arrow-left.png" aria-hidden="true" style="width: 10%; margin-right: 106%">
+                        <img src="../img/arrow-left.png" aria-hidden="true" style="width: 10%; margin-right: 106%" alt="">
                         <span class="sr-only">Previous</span>
                     </a>
                     <a class="carousel-control-next w-auto" href="#recipeCarousel" role="button" data-slide="next">
-                        <img src="../img/arrow-right.png" aria-hidden="true" style="width: 10%; margin-left: 106%">
+                        <img src="../img/arrow-right.png" aria-hidden="true" style="width: 10%; margin-left: 106%" alt="">
                         <!--<span class="carousel-control-next-icon bg-dark border border-dark rounded-circle" aria-hidden="true"></span>-->
                         <span class="sr-only">Next</span>
                     </a>
@@ -928,26 +928,26 @@ My knoledge
 <div id="preloader"></div>
 
 <!-- JavaScript Libraries -->
-<script src="lib/jquery/jquery.min.js"></script>
-<script src="lib/jquery/jquery-migrate.min.js"></script>
-<script src="lib/popper/popper.min.js"></script>
-<script src="lib/bootstrap/js/bootstrap.min.js"></script>
-<script src="lib/easing/easing.min.js"></script>
-<script src="lib/counterup/jquery.waypoints.min.js"></script>
-<script src="lib/counterup/jquery.counterup.js"></script>
-<script src="lib/owlcarousel/owl.carousel.min.js"></script>
-<script src="lib/lightbox/js/lightbox.min.js"></script>
-<script src="lib/typed/typed.min.js"></script>
+<script src="../lib/jquery/jquery.min.js"></script>
+<script src="../lib/jquery/jquery-migrate.min.js"></script>
+<script src="../lib/popper/popper.min.js"></script>
+<script src="../lib/bootstrap/js/bootstrap.min.js"></script>
+<script src="../lib/easing/easing.min.js"></script>
+<script src="../lib/counterup/jquery.waypoints.min.js"></script>
+<script src="../lib/counterup/jquery.counterup.js"></script>
+<script src="../lib/owlcarousel/owl.carousel.min.js"></script>
+<script src="../lib/lightbox/js/lightbox.min.js"></script>
+<script src="../lib/typed/typed.min.js"></script>
 <!-- Contact Form JavaScript File -->
-<script src="contactform/contactform.js"></script>
+<script src="../contactform/contactform.js"></script>
 
 <!-- Template Main Javascript File -->
-<script src="js/main.js"></script>
+<script src="../js/main.js"></script>
 
 <!-- Timeline Javascript File -->
-<script src="js/timeline.js"></script>
+<script src="../js/timeline.js"></script>
 <!-- Carousel -->
-<script type="text/javascript" src="js/carousel.js"></script>
+<script type="text/javascript" src="../js/carousel.js"></script>
 
 
 </body>
