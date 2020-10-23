@@ -23,7 +23,7 @@
     <link href="../lib/animate/animate.min.css" rel="stylesheet">
     <link href="../lib/ionicons/css/ionicons.min.css" rel="stylesheet">
     <link href="../lib/lightbox/css/lightbox.min.css" rel="stylesheet">
-    <link href="../css/carousel.css" rel="stylesheet"> <!--carousel 2.0 pour les hobbies-->about me
+    <link href="../css/carousel.css" rel="stylesheet"> <!--carousel 2.0 pour les hobbies-->
 
     <!-- Main Stylesheet File -->
     <link href="../css/style.css" rel="stylesheet">
@@ -32,7 +32,6 @@
     <link href="../css/timeline.css" rel="stylesheet">
 
 </head>
-My knoledge
 <body id="page-top">
 
 <!--/ Nav Star /-->
