@@ -103,7 +103,7 @@
             <div class="container">
                 <!--<p class="display-6 color-d">Hello, world!</p>-->
                 <h1 class="intro-title mb-4">Victor Aymard</h1>
-                <p class="intro-subtitle"><span class="text-slider-items">Etudiant en ingénierie,<B>En recherche d'alternance</B>,Développeur web,UX Designer,Photographe,Vidéaste,Sympa</span><strong class="text-slider"></strong></p>
+                <p class="intro-subtitle"><span class="text-slider-items">Etudiant en ingénierie,<B>En recherche d'alternance</B>,Développeur web,UX Designer,Photographe,Vidéaste</span><strong class="text-slider"></strong></p>
                 <!-- <p class="pt-3"><a class="btn btn-primary btn js-scroll px-4" href="#about" role="button">Learn More</a></p> -->
             </div>
         </div>
@@ -188,7 +188,7 @@
                                     des cours de gamification, de design thinking, et de gestion de projet.
                                 </p>
                                 <p class="lead">
-                                    Dès Avril prochain, je compte commencer un double diplôme en UX management et design thinking afin
+                                    Dès Avril prochain, je compte commencer un double diplôme en UX management et stratégie expérientielle afin
                                     de mieux comprendre ce monde qui fait la jonction entre design et ingénieurie. Permettant alors de
                                     réduire le temps de release de produits software mais pas uniquement.
                                 </p>
@@ -395,7 +395,7 @@
                                 <div class="col-sm-8">
                                     <h2 class="w-title">Dassault Systèmes</h2>
                                     <div class="w-more">
-                                        <span class="w-ctegory">UI/UX Design / Developpement</span> / <span class="w-date">Avril-Aout 2020</span>
+                                        <span class="w-ctegory">UI-UX Designer / Dev</span> / <span class="w-date">Avril-Aout 2020</span>
                                     </div>
                                 </div>
                                 <div class="col-sm-4">
@@ -443,7 +443,7 @@
                                 <div class="col-sm-8">
                                     <h2 class="w-title">Hackathon SNCF</h2>
                                     <div class="w-more">
-                                        <span class="w-ctegory">UX designer / Dev.</span> / <span class="w-date">21-22 Nov. 2019</span>
+                                        <span class="w-ctegory">UX Designer / Dev.</span> / <span class="w-date">21-22 Nov. 2019</span>
                                     </div>
                                 </div>
                                 <div class="col-sm-4">
@@ -467,7 +467,7 @@
                                 <div class="col-sm-8">
                                     <h2 class="w-title">Wyes</h2>
                                     <div class="w-more">
-                                        <span class="w-ctegory">UI-UX Design / Dev. mobile</span> / <span class="w-date">Sep. 2018</span>
+                                        <span class="w-ctegory">UI-UX Design / Dev. </span> / <span class="w-date">Sep. 2018</span>
                                     </div>
                                 </div>
                                 <div class="col-sm-4">
@@ -515,7 +515,7 @@
                                 <div class="col-sm-8">
                                     <h2 class="w-title">IOT</h2>
                                     <div class="w-more">
-                                        <span class="w-ctegory">Developement</span> / <span class="w-date">2018 - 2020</span>
+                                        <span class="w-ctegory">Dev.</span> / <span class="w-date">2018 - 2020</span>
                                     </div>
                                 </div>
                                 <div class="col-sm-4">

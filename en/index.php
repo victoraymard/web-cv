@@ -84,7 +84,7 @@
                 <!--<p class="display-6 color-d">Hello, world!</p>-->
                 <h1 class="intro-title mb-4">Victor Aymard</h1>
                 <p class="intro-subtitle"><span class="text-slider-items">
-                        Engineering student,<B>Seeking for a work-study program</B>,Web developer,UX Designer,Photographer,Videographer,Sympa
+                        Engineering student,<B>Seeking for a work-study program</B>,Web developer,UX Designer,Photographer,Videographer
                     </span><strong class="text-slider"></strong></p>
                 <!-- <p class="pt-3"><a class="btn btn-primary btn js-scroll px-4" href="#about" role="button">Learn More</a></p> -->
             </div>
@@ -170,7 +170,7 @@
                                     courses in gamification, design thinking, and project management.
                                 </p>
                                 <p class="lead">
-                                    From next April, I plan to start a double degree in UX management and design thinking in order to
+                                    From next April, I plan to start a double degree in UX management and experiential strategy in order to
                                     to better understand this world which is the junction between design and engineering. Allowing then to
                                     reduce the release time of software products, but not only.
                                 </p>
@@ -356,8 +356,6 @@
                     <h3 class="title-a">
                         Mes Experiences
                     </h3>
-                    <!--TODO: ouvrir l'image avec un texte explicatif du projet
-                      TODO: permettre plusieurs images par projet (faire en sorte de ne pas pouvoir switcher aussi facilement entre les projets ?)-->
                     <p class="subtitle-a">
                         Company missions / school and personal projects
                     </p>
@@ -366,6 +364,30 @@
             </div>
         </div>
         <div class="row">
+            <div class="col-md-4">
+                <div class="work-box">
+                    <a href="./project-dsp.html">
+                        <div class="work-img">
+                            <img src="../img/portfolio/dsp.png" alt="" class="img-fluid">
+                        </div>
+                        <div class="work-content">
+                            <div class="row">
+                                <div class="col-sm-8">
+                                    <h2 class="w-title">Dassault Systèmes</h2>
+                                    <div class="w-more">
+                                        <span class="w-ctegory">UI-UX Designer / Dev.</span> / <span class="w-date">April-August 2020</span>
+                                    </div>
+                                </div>
+                                <div class="col-sm-4">
+                                    <div class="w-like">
+                                        <span class="ion-ios-plus-outline"></span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            </div>
             <div class="col-md-4">
                 <div class="work-box">
                     <a href="./project-frap.html">
@@ -401,7 +423,7 @@
                                 <div class="col-sm-8">
                                     <h2 class="w-title">Hackathon SNCF</h2>
                                     <div class="w-more">
-                                        <span class="w-ctegory">UX designer / Dev.</span> / <span class="w-date">21-22 Nov. 2019</span>
+                                        <span class="w-ctegory">UX Designer / Dev.</span> / <span class="w-date">21-22 Nov. 2019</span>
                                     </div>
                                 </div>
                                 <div class="col-sm-4">
@@ -425,7 +447,7 @@
                                 <div class="col-sm-8">
                                     <h2 class="w-title">Wyes</h2>
                                     <div class="w-more">
-                                        <span class="w-ctegory">UI-UX Design / Dev. mobile</span> / <span class="w-date">Sep. 2018</span>
+                                        <span class="w-ctegory">UI-UX Designer / Dev. </span> / <span class="w-date">Sep. 2018</span>
                                     </div>
                                 </div>
                                 <div class="col-sm-4">
@@ -473,7 +495,7 @@
                                 <div class="col-sm-8">
                                     <h2 class="w-title">IOT</h2>
                                     <div class="w-more">
-                                        <span class="w-ctegory">Developement</span> / <span class="w-date">2018 - 2020</span>
+                                        <span class="w-ctegory">Dev.</span> / <span class="w-date">2018 - 2020</span>
                                     </div>
                                 </div>
                                 <div class="col-sm-4">
@@ -486,30 +508,7 @@
                     </a>
                 </div>
             </div>
-            <div class="col-md-4">
-                <div class="work-box">
-                    <a href="./project-bapbap.html">
-                        <div class="work-img">
-                            <img src="../img/portfolio/bapbap.png" alt="" class="img-fluid">
-                        </div>
-                        <div class="work-content">
-                            <div class="row">
-                                <div class="col-sm-8">
-                                    <h2 class="w-title">Bapbap</h2>
-                                    <div class="w-more">
-                                        <span class="w-ctegory">Brewer</span> / <span class="w-date">Jan.-Fev. 2018</span>
-                                    </div>
-                                </div>
-                                <div class="col-sm-4">
-                                    <div class="w-like">
-                                        <span class="ion-ios-plus-outline"></span>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-            </div>
+
         </div>
     </div>
 </section>
@@ -533,11 +532,11 @@
 
                         <li>
                             <div>
-                                <a title="Plus d'infos sur le master" href="https://www.supdepub.com/niveaux-detudes/formation-master-2/sp5-ux-management-design-thinking/" target="_blank">
+                                <a title="More infos on the master" href="https://www.supdepub.com/niveaux-detudes/formation-master-2/sp5-ux-management-design-thinking/" target="_blank">
                                     <time>April 2021</time>
                                 </a>
                                 <article style="display: flex; flex-direction: row; justify-content: center; align-items: center">
-                                    <p>Beginning of a double degree in UX management & design thinking</p>
+                                    <p>Beginning of a double degree in UX Management and Experiential Strategy</p>
                                     <img src="../img/sup_de_pub.png" style="width: 50%;" alt="">
                                 </article>
                             </div>
@@ -545,7 +544,7 @@
 
                         <li>
                             <div>
-                                <a title="Plus d'infos sur la majeure OCRES" href="https://www.ece.fr/ecole-ingenieur/cursus/specialisations/majeures/objets-connectes-reseaux-et-services/" target="_blank">
+                                <a title="More infos on the major OCRES" href="https://www.ece.fr/ecole-ingenieur/cursus/specialisations/majeures/objets-connectes-reseaux-et-services/" target="_blank">
                                     <time>Sept 2019</time>
                                 </a>
                                 <article style="display: flex; flex-direction: row; justify-content: center; align-items: center">
@@ -599,7 +598,7 @@
                                     <time>June 2015</time>
                                 </a>
                                 <article style="display: flex; flex-direction: row; justify-content: center; align-items: center">
-                                    <p>Obtention du Baccalauréat S, mention très bien.</p>
+                                    <p>Obtained the Baccalaureate S, with honours.</p>
                                     <img src="../img/logo_bac.png" style="width: 30%;" alt="">
                                 </article>
                             </div>
@@ -844,26 +843,26 @@
                                         <div class="row">
                                             <div class="col-md-12 mb-3">
                                                 <div class="form-group">
-                                                    <input type="text" class="form-control" name="name" id="name" placeholder="Votre nom" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
+                                                    <input type="text" class="form-control" name="name" id="name" placeholder="Your name" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
                                                     <div class="validation"></div>
                                                 </div>
                                             </div>
 
                                             <div class="col-md-12 mb-3">
                                                 <div class="form-group">
-                                                    <input type="email" class="form-control" name="email" id="email" placeholder="Votre email" data-rule="email" data-msg="Please enter a valid email" />
+                                                    <input type="email" class="form-control" name="email" id="email" placeholder="Your email" data-rule="email" data-msg="Please enter a valid email" />
                                                     <div class="validation"></div>
                                                 </div>
                                             </div>
                                             <div class="col-md-12 mb-3">
                                                 <div class="form-group">
-                                                    <input type="text" class="form-control" name="subject" id="subject" placeholder="Objet" data-rule="minlen:4" data-msg="Please enter at least 8 chars of subject" />
+                                                    <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" data-rule="minlen:4" data-msg="Please enter at least 8 chars of subject" />
                                                     <div class="validation"></div>
                                                 </div>
                                             </div>
                                             <div class="col-md-12 mb-3">
                                                 <div class="form-group">
-                                                    <textarea class="form-control" name="message" id="message" rows="5" data-rule="required" data-msg="Please write something for us" placeholder="Votre message"></textarea>
+                                                    <textarea class="form-control" name="message" id="message" rows="5" data-rule="required" data-msg="Please write something for us" placeholder="Your message"></textarea>
                                                     <div class="validation"></div>
                                                 </div>
                                             </div>
@@ -889,7 +888,7 @@
                                     <ul class="list-ico">
                                         <li><span class="ion-ios-location"></span> 101 rue Balard, 75015 Paris</li>
                                         <li><span class="ion-ios-telephone"></span> +33 6 40 46 32 49</li>
-                                        <li><span class="ion-email"></span> <a href="mailto:victor.aymard@edu.ece.fr?subject=Tu cherches un stage?&body=Bonjour Victor, vous ne me connaissez pas, mais je sens que nous allons bien nous entendre!" target="_blank">victor.aymard@edu.ece.fr</a></li>
+                                        <li><span class="ion-email"></span> <a href="mailto:victor.aymard@edu.ece.fr?subject=Are you looking for an internship?&body=Hello Victor, you don't know me, but I have a feeling we're going to get along very well!" target="_blank">victor.aymard@edu.ece.fr</a></li>
                                     </ul>
                                 </div>
                                 <div class="socials">
