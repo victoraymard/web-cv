@@ -84,7 +84,7 @@
                 <!--<p class="display-6 color-d">Hello, world!</p>-->
                 <h1 class="intro-title mb-4">Victor Aymard</h1>
                 <p class="intro-subtitle"><span class="text-slider-items">
-                        Engineering student,<B>Seeking for a work-study program</B>,Web developer,UX Designer,Photographer,Videographer
+                        Engineering student,<B>Seeking for an apprenticeship </B>,Web developer,UX Designer,Photographer,Videographer
                     </span><strong class="text-slider"></strong></p>
                 <!-- <p class="pt-3"><a class="btn btn-primary btn js-scroll px-4" href="#about" role="button">Learn More</a></p> -->
             </div>
@@ -160,7 +160,7 @@
                                     </h5>
                                 </div>
                                 <p class="lead">
-                                    I'm looking for <strong id="rechercheDeStage">a 12-month rotation starting in April 2021 </strong>
+                                    I'm looking for <strong id="rechercheDeStage">a 12-month apprenticeship starting in April 2021 </strong>
                                     to deepen my knowledge in UI / UX design.
                                 </p>
                                 <p class="lead">
@@ -558,7 +558,7 @@
 
                         <li>
                             <div>
-                                <a title="Plus d'infos sur Malmö Universitet" href="https://mau.se/en/" target="_blank">
+                                <a title="More infos on Malmö Universitet" href="https://mau.se/en/" target="_blank">
                                     <time>Aug 2018</time>
                                 </a>
                                 <article style="display: flex; flex-direction: row; justify-content: center; align-items: center">
