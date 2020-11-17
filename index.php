@@ -127,7 +127,7 @@
                                 <div class="col-sm-6 col-md-7">
                                     <div class="about-info">
                                         <p><span class="title-s">Nom: </span> <span>Victor Aymard</span></p>
-                                        <p><span class="title-s">Profile: </span> <span>Etudiant ingénieur en master</span></p>
+                                        <p><span class="title-s">Profil: </span> <span>Etudiant ingénieur en master</span></p>
                                         <p><span class="title-s">Email: </span> <span><a href="mailto:victor.aymard@edu.ece.fr?subject=Tu cherches un stage?&body=Bonjour Victor, vous ne me connaissez pas, mais je sens que nous allons bien nous entendre!" target="_blank">victor.aymard@edu.ece.fr</a></span></p>
                                         <p><span class="title-s">Téléphone: </span> <span>+33 6 40 46 32 49</span></p>
                                     </div>
