@@ -84,7 +84,7 @@
                 <!--<p class="display-6 color-d">Hello, world!</p>-->
                 <h1 class="intro-title mb-4">Victor Aymard</h1>
                 <p class="intro-subtitle"><span class="text-slider-items">
-                        Engineering student,<B>Seeking for an apprenticeship </B>,Web developer,UX Designer,Photographer,Videographer
+                        Engineering student,<B>Seeking for an apprenticeship </B>,Web developer,UX Designer,Product Designer, Product Manager,Photographer,Videographer
                     </span><strong class="text-slider"></strong></p>
                 <!-- <p class="pt-3"><a class="btn btn-primary btn js-scroll px-4" href="#about" role="button">Learn More</a></p> -->
             </div>

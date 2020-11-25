@@ -103,7 +103,7 @@
             <div class="container">
                 <!--<p class="display-6 color-d">Hello, world!</p>-->
                 <h1 class="intro-title mb-4">Victor Aymard</h1>
-                <p class="intro-subtitle"><span class="text-slider-items">Etudiant en ingénierie,<B>En recherche d'alternance</B>,Développeur web,UX Designer,Photographe,Vidéaste</span><strong class="text-slider"></strong></p>
+                <p class="intro-subtitle"><span class="text-slider-items">Etudiant en ingénierie,<B>En recherche d'alternance</B>,Développeur web,UX Designer,Product Designer, Product Manager,Photographe,Vidéaste</span><strong class="text-slider"></strong></p>
                 <!-- <p class="pt-3"><a class="btn btn-primary btn js-scroll px-4" href="#about" role="button">Learn More</a></p> -->
             </div>
         </div>
@@ -183,14 +183,13 @@
                                 </p>
                                 <p class="lead">
                                     Actuellement en dernière année au sein de l’Ecole Centrale d’Electronique (ECE) de
-                                    Paris. j'y ai choisi la majeure "Objets Connectés Réseaux et Services". Au travers de celle-ci, j'ai
+                                    Paris. J'y ai choisi la majeure "Objets Connectés Réseaux et Services". Au travers de celle-ci, j'ai
                                     pu me perfectionner en développement web, ainsi qu'acquérir de nombreuses connaissances utiles via
                                     des cours de gamification, de design thinking, et de gestion de projet.
                                 </p>
                                 <p class="lead">
                                     Dès Avril prochain, je compte commencer un double diplôme en UX management et stratégie expérientielle afin
-                                    de mieux comprendre ce monde qui fait la jonction entre design et ingénieurie. Permettant alors de
-                                    réduire le temps de release de produits software mais pas uniquement.
+                                    de mieux comprendre ce monde qui fait la jonction entre design produit et sa conception.
                                 </p>
                             </div>
                         </div>
