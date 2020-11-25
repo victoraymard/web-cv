@@ -266,7 +266,7 @@
                         <span class="ico-circle"><i class="ion-paintbrush"></i></span>
                     </div>
                     <div class="service-content">
-                        <h2 class="s-title">Design Graphic</h2>
+                        <h2 class="s-title">Graphic Design</h2>
                         <p class="s-description text-center">
                             Very concerned about the graphic aspect of my projects, I like to apply myself to make beautiful models.
                             before taking care of the frontend part of them to improve the UI (user interface), and
@@ -306,7 +306,7 @@
                     </div>
                     <div class="counter-num">
                         <p class="counter">12</p>
-                        <span class="counter-text">MOIS D'ALTERNANCE RECHERCHÉES</span>
+                        <span class="counter-text">MONTH OF APPRENTICESIP WANTED</span>
                     </div>
                 </div>
             </div>
@@ -354,7 +354,7 @@
             <div class="col-sm-12">
                 <div class="title-box text-center">
                     <h3 class="title-a">
-                        Mes Experiences
+                        My Experiences
                     </h3>
                     <p class="subtitle-a">
                         Company missions / school and personal projects
