@@ -555,7 +555,7 @@
                                     <time>Avril 2021</time>
                                 </a>
                                 <article style="display: flex; flex-direction: row; justify-content: center; align-items: center">
-                                    <p>Début d'un double diplôme en alternance en UX management & design thinking.</p>
+                                    <p>Début d'un double diplôme en alternance en UX management & stratégie expérientielle.</p>
                                     <img src="img/sup_de_pub.png" style="width: 50%;" alt="">
                                 </article>
                             </div>
