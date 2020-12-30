@@ -31,15 +31,15 @@
     <!-- Open Graph meta pour Facebook et LinkedIn -->
     <meta property="og:title" content="CV Victor Aymard" />
     <meta property="og:url" content="http://www.victor-aymard.com/" />
-    <meta property="og:image" content="img/enBref/enBrefPict.jpg" />
+    <meta property="og:image" content="img/enBref/enBrefPict.png" />
     <meta property="og:description" content="Bienvenue sur mon site, si vous voulez en savoir un peu plus sur moi, c'est ici que ça se passe !" />
     <meta property="og:site_name" content="CV Victor Aymard">
     <meta property="og:type" content="website">
     <meta name="author" content="Victor Aymard">
 
     <!-- Favicons -->
-    <link href="img/favicon-m.jpg" rel="icon">
-    <!--<link href="img/apple-touch-icon.jpg" rel="apple-touch-icon">-->
+    <link href="img/favicon-m.png" rel="icon">
+    <!--<link href="img/apple-touch-icon.png" rel="apple-touch-icon">-->
 
     <!-- caroussel -->
     <script src="js/carousel.js"></script>
@@ -96,7 +96,7 @@
                 </li>
                 <li class="nav-item" style="margin-top: 5px">
                     <a href="en/index.php" >
-                        <img src="img/fr.jpg" style="max-height: 25px" alt="">
+                        <img src="img/fr.png" style="max-height: 25px" alt="">
                     </a>
                 </li>
             </ul>
@@ -131,7 +131,7 @@
                             <div class="row">
                                 <div class="col-sm-6 col-md-5">
                                     <div class="about-img">
-                                        <img src="img/enBref/enBrefPict.jpg" class="img-fluid b-shadow-a" alt="" style="border-radius: 20px;">
+                                        <img src="img/enBref/enBrefPict.png" class="img-fluid b-shadow-a" alt="" style="border-radius: 20px;">
                                     </div>
                                 </div>
                                 <div class="col-sm-6 col-md-7">
@@ -189,7 +189,7 @@
                                 </div>
                                 <p class="lead">
                                     Je recherche <strong id="rechercheDeStage">une alternance de 12 mois à partir d’avril 2021 </strong>
-                                    pour approfondir mes connaissances dans l’UI / UX design.
+                                    en tant que PO, PM, PrD, ou UX designer.
                                 </p>
                                 <p class="lead">
                                     Actuellement en dernière année au sein de l’Ecole Centrale d’Electronique (ECE) de
@@ -199,8 +199,8 @@
                                 </p>
                                 <p class="lead">
                                     Dès Avril prochain, je compte commencer un double diplôme en UX management et stratégie expérientielle afin
-                                    de mieux comprendre ce monde qui fait la jonction entre design et ingénieurie. Permettant alors de
-                                    réduire le temps de release de produits software mais pas uniquement.
+                                    de mieux comprendre le point de vue utilisateur et les différentes méthodes et stratégies permettant d'améliorer
+                                    un produit en investissant mieux dans le développement.
                                 </p>
                             </div>
                         </div>
@@ -566,7 +566,7 @@
                                 </a>
                                 <article style="display: flex; flex-direction: row; justify-content: center; align-items: center">
                                     <p>Début d'un double diplôme en alternance en UX management & stratégie expérientielle.</p>
-                                    <img src="img/sup_de_pub.jpg" style="width: 50%;" alt="">
+                                    <img src="img/sup_de_pub.png" style="width: 50%;" alt="">
                                 </article>
                             </div>
                         </li>
@@ -578,7 +578,7 @@
                                 </a>
                                 <article style="display: flex; flex-direction: row; justify-content: center; align-items: center">
                                     <p>Master à l'ECE au sein de la majeure Objets Connectés, Réseaux Et Services.</p>
-                                    <img src="img/logo_ocres.jpg" style="width: 40%; height: 20%" alt="">
+                                    <img src="img/logo_ocres.png" style="width: 40%; height: 20%" alt="">
                                 </article>
 
 
@@ -592,7 +592,7 @@
                                 </a>
                                 <article style="display: flex; flex-direction: row; justify-content: center; align-items: center">
                                     <p>Départ pour un semestre à l'univesité de Malmö en Suède en computer science.</p>
-                                    <img src="img/malmo.jpg" style="width: 25%;" alt="">
+                                    <img src="img/malmo.png" style="width: 25%;" alt="">
                                 </article>
                             </div>
                         </li>
@@ -604,7 +604,7 @@
                                 </a>
                                 <article style="display: flex; flex-direction: row; justify-content: center; align-items: center">
                                     <p>Passerelle entre l'EPFL et l'ECE Paris.</p>
-                                    <img src="img/logo_ece.jpg" style="width: 50%" alt="">
+                                    <img src="img/logo_ece.png" style="width: 50%" alt="">
                                 </article>
                             </div>
                         </li>
@@ -616,7 +616,7 @@
                                 </a>
                                 <article style="display: flex; flex-direction: row; justify-content: center; align-items: center">
                                     <p>Entrée à l'EPFL en section Microtechnique.</p>
-                                    <img src="img/EPFL_Logo_2019.jpg" style="width: 30%" alt="">
+                                    <img src="img/EPFL_Logo_2019.png" style="width: 30%" alt="">
                                 </article>
                             </div>
                         </li>
@@ -628,7 +628,7 @@
                                 </a>
                                 <article style="display: flex; flex-direction: row; justify-content: center; align-items: center">
                                     <p>Obtention du Baccalauréat S, mention très bien.</p>
-                                    <img src="img/logo_bac.jpg" style="width: 30%;" alt="">
+                                    <img src="img/logo_bac.png" style="width: 30%;" alt="">
                                 </article>
                             </div>
                         </li>
@@ -786,11 +786,11 @@
 
                     </div>
                     <a class="carousel-control-prev w-auto" href="#recipeCarousel" role="button" data-slide="prev">
-                        <img src="img/arrow-left.jpg" aria-hidden="true" style="width: 10%; margin-right: 106%" alt="">
+                        <img src="img/arrow-left.png" aria-hidden="true" style="width: 10%; margin-right: 106%" alt="">
                         <span class="sr-only">Previous</span>
                     </a>
                     <a class="carousel-control-next w-auto" href="#recipeCarousel" role="button" data-slide="next">
-                        <img src="img/arrow-right.jpg" aria-hidden="true" style="width: 10%; margin-left: 106%" alt="">
+                        <img src="img/arrow-right.png" aria-hidden="true" style="width: 10%; margin-left: 106%" alt="">
                         <!--<span class="carousel-control-next-icon bg-dark border border-dark rounded-circle" aria-hidden="true"></span>-->
                         <span class="sr-only">Next</span>
                     </a>

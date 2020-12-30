@@ -1,12 +1,32 @@
 <?php if (substr_count($_SERVER['HTTP_ACCEPT_ENCODING'], 'gzip')) ob_start("ob_gzhandler"); else ob_start(); header('Content-type: text/html; charset=utf-8');?>
 <!DOCTYPE html>
-<html lang="fr">
+<html lang="en">
+
+
+
+<!--
+    No but oh! it's not fair to look at people naked like that, close this page and give me back my CSS everything
+    right away!
+-->
+
+
+
 <head>
     <meta charset="utf-8">
     <title>CV Victor Aymard</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="" name="keywords">
     <meta content="" name="description">
+
+
+    <!-- Open Graph meta for Facebook and LinkedIn -->
+    <meta property="og:title" content="Curiculum Victor Aymard" />
+    <meta property="og:url" content="http://www.victor-aymard.com/" />
+    <meta property="og:image" content="../img/enBref/enBrefPict.png" />
+    <meta property="og:description" content="Welcome to my site, if you want to know a little more about me, this is where it all happens!" />
+    <meta property="og:site_name" content="Curiculum Victor Aymard">
+    <meta property="og:type" content="website">
+    <meta name="author" content="Victor Aymard">
 
     <!-- Favicons -->
     <link href="../img/favicon-m.png" rel="icon">
@@ -76,7 +96,7 @@
 <!--/ Nav End /-->
 
 <!--/ Intro Skew Star /-->
-<div id="home" class="intro route bg-image" style="background-image: url(../img/intro-bg.png)">
+<div id="home" class="intro route bg-image" style="background-image: url(../img/intro-bg.jpg)">
     <div class="overlay-itro"></div>
     <div class="intro-content display-table">
         <div class="table-cell">
@@ -161,7 +181,7 @@
                                 </div>
                                 <p class="lead">
                                     I'm looking for <strong id="rechercheDeStage">a 12-month apprenticeship starting in April 2021 </strong>
-                                    to deepen my knowledge in UI / UX design.
+                                    as PO, PM, PrD, or UX designer.
                                 </p>
                                 <p class="lead">
                                     Currently in his last year at the Ecole Centrale d'Electronique (ECE) of
@@ -170,9 +190,9 @@
                                     courses in gamification, design thinking, and project management.
                                 </p>
                                 <p class="lead">
-                                    From next April, I plan to start a double degree in UX management and experiential strategy in order to
-                                    to better understand this world which is the junction between design and engineering. Allowing then to
-                                    reduce the release time of software products, but not only.
+                                    From next April, I plan to start a double degree in UX management and experiential
+                                    strategy in order to better understand the user's point of view and the different
+                                    methods and strategies to improve a product by better investing in development.
                                 </p>
                             </div>
                         </div>
@@ -368,7 +388,7 @@
                 <div class="work-box">
                     <a href="./project-dsp.html">
                         <div class="work-img">
-                            <img src="../img/portfolio/dsp.png" alt="" class="img-fluid">
+                            <img src="../img/portfolio/dsp.jpg" alt="" class="img-fluid">
                         </div>
                         <div class="work-content">
                             <div class="row">
@@ -392,7 +412,7 @@
                 <div class="work-box">
                     <a href="./project-frap.html">
                         <div class="work-img">
-                            <img src="../img/portfolio/frap.png" alt="" class="img-fluid">
+                            <img src="../img/portfolio/frap.jpg" alt="" class="img-fluid">
                         </div>
                         <div class="work-content">
                             <div class="row">
@@ -416,7 +436,7 @@
                 <div class="work-box">
                     <a href="./project-hackathon.html">
                         <div class="work-img">
-                            <img src="../img/portfolio/sncf.png" alt="" class="img-fluid">
+                            <img src="../img/portfolio/sncf.jpg" alt="" class="img-fluid">
                         </div>
                         <div class="work-content">
                             <div class="row">
@@ -440,7 +460,7 @@
                 <div class="work-box">
                     <a href="./project-wyes.html">
                         <div class="work-img">
-                            <img src="../img/portfolio/wyes.png" alt="" class="img-fluid">
+                            <img src="../img/portfolio/wyes.jpg" alt="" class="img-fluid">
                         </div>
                         <div class="work-content">
                             <div class="row">
@@ -464,7 +484,7 @@
                 <div class="work-box">
                     <a href="./project-designThining.html">
                         <div class="work-img">
-                            <img src="../img/portfolio/dt.png" alt="" class="img-fluid">
+                            <img src="../img/portfolio/dt.jpg" alt="" class="img-fluid">
                         </div>
                         <div class="work-content">
                             <div class="row">
@@ -488,7 +508,7 @@
                 <div class="work-box">
                     <a href="./project-informatiqueEmbarqué.html">
                         <div class="work-img">
-                            <img src="../img/portfolio/iot.png" alt="" class="img-fluid">
+                            <img src="../img/portfolio/iot.jpg" alt="" class="img-fluid">
                         </div>
                         <div class="work-content">
                             <div class="row">
@@ -641,7 +661,7 @@
                             <div class="col-md-4">
                                 <div class="card card-blog">
                                     <div class="card-img">
-                                        <a  target="_blank"><img src="../img/sat.png" alt="" class="img-fluid"></a>
+                                        <a  target="_blank"><img src="../img/sat.jpg" alt="" class="img-fluid"></a>
                                     </div>
                                     <div class="card-body">
                                         <div class="card-category-box">
@@ -666,7 +686,7 @@
                                 <div class="card card-blog">
                                     <button type="button" class="invisibleBtn" data-toggle="modal" data-target="#jbtvModal">
                                         <div class="card-img">
-                                            <a target="_blank"><img src="../img/jbtv.PNG" alt="" class="img-fluid"></a>
+                                            <a target="_blank"><img src="../img/jbtv.jpg" alt="" class="img-fluid"></a>
                                         </div>
                                         <div class="card-body">
                                             <div class="card-category-box">
@@ -690,22 +710,24 @@
                         <div class="carousel-item">
                             <div class="col-md-4">
                                 <div class="card card-blog">
-                                    <div class="card-img">
-                                        <a target="_blank"><img src="../img/design.png" alt="" class="img-fluid"></a>
-                                    </div>
-                                    <div class="card-body">
-                                        <div class="card-category-box">
-                                            <div class="card-category">
-                                                <h6 class="category">Hobby</h6>
-                                            </div>
+                                    <button type="button" class="invisibleBtn" data-toggle="modal" data-target="#designModal">
+                                        <div class="card-img">
+                                            <a target="_blank"><img src="../img/design.jpg" alt="" class="img-fluid"></a>
                                         </div>
-                                        <h3 class="card-title">Graphic Design</h3>
-                                        <p class="card-description">
-                                            From time to time, I like to redesign logos, to work on animations or
-                                            just be interested in the latest trends in desgin software and in
-                                            the evolution of their integration.
-                                        </p>
-                                    </div>
+                                        <div class="card-body">
+                                            <div class="card-category-box">
+                                                <div class="card-category">
+                                                    <h6 class="category">Hobby</h6>
+                                                </div>
+                                            </div>
+                                            <h3 class="card-title">Graphic Design</h3>
+                                            <p class="card-description">
+                                                From time to time, I like to redesign logos, to work on animations or
+                                                just be interested in the latest trends in desgin software and in
+                                                the evolution of their integration.
+                                            </p>
+                                        </div>
+                                    </button>
                                 </div>
                             </div>
                         </div>
@@ -813,6 +835,28 @@
                             type="video/mp4">
                     Sorry, your browser doesn't support embedded videos.
                 </video>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Graphic design  -->
+<div class="modal fade bd-example-modal-xl" id="designModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-xl" role="document">
+        <div class="modal-content" >
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Graphic design</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body flex">
+                <iframe
+                        style="border: 1px solid rgba(0, 0, 0, 0.1);"
+                        width="100%"  height="500"
+                        src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FLR7hW60ABtO3afVE8afa6x%2Fportoflio-victor-aymard%3Fnode-id%3D0%253A1"
+                        allowfullscreen>
+                </iframe>
             </div>
         </div>
     </div>
