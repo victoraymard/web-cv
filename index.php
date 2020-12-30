@@ -128,7 +128,7 @@
                                     <div class="about-info">
                                         <p><span class="title-s">Nom: </span> <span>Victor Aymard</span></p>
                                         <p><span class="title-s">Profil: </span> <span>Etudiant ingénieur en master</span></p>
-                                        <p><span class="title-s">Email: </span> <span><a href="mailto:victor.aymard@edu.ece.fr?subject=Tu cherches un stage?&body=Bonjour Victor, vous ne me connaissez pas, mais je sens que nous allons bien nous entendre!" target="_blank">victor.aymard@edu.ece.fr</a></span></p>
+                                        <p><span class="title-s">Email: </span> <span><a href="mailto:victor.aymard@edu.ece.fr?subject=Tu cherches une alternance?&body=Bonjour Victor, vous ne me connaissez pas, mais je sens que nous allons bien nous entendre!" target="_blank">victor.aymard@edu.ece.fr</a></span></p>
                                         <p><span class="title-s">Téléphone: </span> <span>+33 6 40 46 32 49</span></p>
                                     </div>
                                 </div>
@@ -290,7 +290,6 @@
                             avant de m'occuper de la partie frontend de ceux-ci pour améliorer l'UI (interface utilisateur) et
                             rendre l'UX (expérience utilisateur) optimale.
                         </p>
-                        <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FLR7hW60ABtO3afVE8afa6x%2Fportoflio-victor-aymard%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
                     </div>
                 </div>
             </div>
@@ -389,7 +388,7 @@
                 <div class="work-box">
                     <a href="./project-dsp.html">
                         <div class="work-img">
-                            <img src="img/portfolio/dsp.png" alt="" class="img-fluid">
+                            <img src="img/portfolio/dsp.jpg" alt="" class="img-fluid">
                         </div>
                         <div class="work-content">
                             <div class="row">
@@ -413,7 +412,7 @@
                 <div class="work-box">
                     <a href="./project-frap.html">
                         <div class="work-img">
-                            <img src="img/portfolio/frap.png" alt="" class="img-fluid">
+                            <img src="img/portfolio/frap.jpg" alt="" class="img-fluid">
                         </div>
                         <div class="work-content">
                             <div class="row">
@@ -437,7 +436,7 @@
                 <div class="work-box">
                     <a href="./project-hackathon.html">
                         <div class="work-img">
-                            <img src="img/portfolio/sncf.png" alt="" class="img-fluid">
+                            <img src="img/portfolio/sncf.jpg" alt="" class="img-fluid">
                         </div>
                         <div class="work-content">
                             <div class="row">
@@ -461,7 +460,7 @@
                 <div class="work-box">
                     <a href="./project-wyes.html">
                         <div class="work-img">
-                            <img src="img/portfolio/wyes.png" alt="" class="img-fluid">
+                            <img src="img/portfolio/wyes.jpg" alt="" class="img-fluid">
                         </div>
                         <div class="work-content">
                             <div class="row">
@@ -485,7 +484,7 @@
                 <div class="work-box">
                     <a href="./project-designThining.html">
                         <div class="work-img">
-                            <img src="img/portfolio/dt.png" alt="" class="img-fluid">
+                            <img src="img/portfolio/dt.jpg" alt="" class="img-fluid">
                         </div>
                         <div class="work-content">
                             <div class="row">
@@ -509,7 +508,7 @@
                 <div class="work-box">
                     <a href="./project-informatiqueEmbarqué.html">
                         <div class="work-img">
-                            <img src="img/portfolio/iot.png" alt="" class="img-fluid">
+                            <img src="img/portfolio/iot.jpg" alt="" class="img-fluid">
                         </div>
                         <div class="work-content">
                             <div class="row">
@@ -928,7 +927,7 @@
                                     <ul class="list-ico">
                                         <li><span class="ion-ios-location"></span> 101 rue Balard, 75015 Paris</li>
                                         <li><span class="ion-ios-telephone"></span> +33 6 40 46 32 49</li>
-                                        <li><span class="ion-email"></span> <a href="mailto:victor.aymard@edu.ece.fr?subject=Tu cherches un stage?&body=Bonjour Victor, vous ne me connaissez pas, mais je sens que nous allons bien nous entendre!" target="_blank">victor.aymard@edu.ece.fr</a></li>
+                                        <li><span class="ion-email"></span> <a href="mailto:victor.aymard@edu.ece.fr?subject=Tu cherches une alternance?&body=Bonjour Victor, vous ne me connaissez pas, mais je sens que nous allons bien nous entendre!" target="_blank">victor.aymard@edu.ece.fr</a></li>
                                     </ul>
                                 </div>
                                 <div class="socials">
