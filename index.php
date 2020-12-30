@@ -33,8 +33,9 @@
     <meta property="og:url" content="http://www.victor-aymard.com/" />
     <meta property="og:image" content="img/enBref/enBrefPict.png" />
     <meta property="og:description" content="Bienvenue sur mon site, si vous voulez en savoir un peu plus sur moi, c'est ici que ça se passe !" />
-    <meta property="og:site_name" content="CV Victor Aymard" />
-    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="CV Victor Aymard">
+    <meta property="og:type" content="website">
+    <meta name="author" content="Victor Aymard">
 
     <!-- Favicons -->
     <link href="img/favicon-m.png" rel="icon">
