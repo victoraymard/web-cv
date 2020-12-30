@@ -25,7 +25,16 @@
     <title>CV Victor Aymard</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="" name="keywords">
-    <meta content="" name="description">
+    <meta content="Bienvenue sur mon site, si vous voulez en savoir un peu plus sur moi, c'est ici que ça se passe !" name="description">
+
+
+    <!-- Open Graph meta pour Facebook et LinkedIn -->
+    <meta property="og:title" content="CV Victor Aymard" />
+    <meta property="og:url" content="http://www.victor-aymard.com/" />
+    <meta property="og:image" content="https://exemple.com/wa_files/image-fb.png" />
+    <meta property="og:description" content="Bienvenue sur mon site, si vous voulez en savoir un peu plus sur moi, c'est ici que ça se passe !" />
+    <meta property="og:site_name" content="CV Victor Aymard" />
+    <meta property="og:type" content="website" />
 
     <!-- Favicons -->
     <link href="img/favicon-m.png" rel="icon">
