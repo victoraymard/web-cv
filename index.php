@@ -290,6 +290,7 @@
                             avant de m'occuper de la partie frontend de ceux-ci pour améliorer l'UI (interface utilisateur) et
                             rendre l'UX (expérience utilisateur) optimale.
                         </p>
+                        <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FLR7hW60ABtO3afVE8afa6x%2Fportoflio-victor-aymard%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
                     </div>
                 </div>
             </div>
@@ -707,21 +708,23 @@
                         <div class="carousel-item">
                             <div class="col-md-4">
                                 <div class="card card-blog">
-                                    <div class="card-img">
-                                        <a target="_blank"><img src="img/design.png" alt="" class="img-fluid"></a>
-                                    </div>
-                                    <div class="card-body">
-                                        <div class="card-category-box">
-                                            <div class="card-category">
-                                                <h6 class="category">Hobbie</h6>
-                                            </div>
+                                    <button type="button" class="invisibleBtn" data-toggle="modal" data-target="#designModal">
+                                        <div class="card-img">
+                                            <a target="_blank"><img src="img/design.png" alt="" class="img-fluid"></a>
                                         </div>
-                                        <h3 class="card-title">Design graphique</h3>
-                                        <p class="card-description">
-                                            De temps à autre, j'aime redesigner des logos, travailler des animations ou juste m'intéresser
-                                            aux dernières tendances de desgin software et à l'évolution de leur intégration.
-                                        </p>
-                                    </div>
+                                        <div class="card-body">
+                                            <div class="card-category-box">
+                                                <div class="card-category">
+                                                    <h6 class="category">Hobbie</h6>
+                                                </div>
+                                            </div>
+                                            <h3 class="card-title">Design graphique</h3>
+                                            <p class="card-description">
+                                                De temps à autre, j'aime redesigner des logos, travailler des animations ou juste m'intéresser
+                                                aux dernières tendances de desgin software et à l'évolution de leur intégration.
+                                            </p>
+                                        </div>
+                                    </button>
                                 </div>
                             </div>
                         </div>
@@ -826,6 +829,30 @@
                             type="video/mp4">
                     Sorry, your browser doesn't support embedded videos.
                 </video>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<!-- Design graphique -->
+<div class="modal fade bd-example-modal-xl" id="designModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-xl" role="document">
+        <div class="modal-content" >
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Desgin graphique</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body flex">
+                <iframe
+                        style="border: 1px solid rgba(0, 0, 0, 0.1);"
+                        width="100%"  height="500"
+                        src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FLR7hW60ABtO3afVE8afa6x%2Fportoflio-victor-aymard%3Fnode-id%3D0%253A1"
+                        allowfullscreen>
+                </iframe>
             </div>
         </div>
     </div>
