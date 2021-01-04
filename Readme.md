@@ -4,5 +4,5 @@ Voilà le thème dont je me suis inspiré : https://bootstrapmade.com/devfolio-b
 
 La branche master est la branche clean alors qu'il y a beaucoup de m***** dans la branche develop.
 
-## le code est visible sur ce lien :
+## le site est visible sur ce lien :
 www.victor.aymard.com
