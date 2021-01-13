@@ -940,7 +940,7 @@
                                         <li><a href="https://www.linkedin.com/in/victor-aymard-324b75150/" target="_blank"><span class="ico-circle"><i class="ion-social-linkedin"></i></span></a></li>
                                         <li><a href="https://github.com/victoraymard" target="_blank"><span class="ico-circle"><i class="ion-social-github"></i></span></a></li>
                                         <li><a href="https://dribbble.com/bosetti" target="_blank"><span class="ico-circle"><i class="ion-social-dribbble"></i></span></a></li>
-                                        <li><a href="https://www.figma.com/file/LR7hW60ABtO3afVE8afa6x/portoflio-victor-aymard?node-id=0%3A1" target="_blank"><span class="ico-circle"><i class="ion-social-figma"></i></span></a></li>
+                                        <li><a href="https://www.figma.com/file/LR7hW60ABtO3afVE8afa6x/portoflio-victor-aymard?node-id=0%3A1" target="_blank"><span class="ico-circle"><i class="ion-social-figma0"></i></span></a></li>
                                     </ul>
                                 </div>
                             </div>
