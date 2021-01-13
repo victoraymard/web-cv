@@ -926,8 +926,8 @@
                                 </div>
                                 <div class="more-info">
                                     <p class="lead">
-                                        If you want to contact me, please fill in the form opposite. I would like to
-                                        would be happy to answer you :)
+                                        If you want to contact me, please fill in the form opposite.
+                                        I would be happy to answer you :)
                                     </p>
                                     <ul class="list-ico">
                                         <li><span class="ion-ios-location"></span> 101 rue Balard, 75015 Paris</li>
