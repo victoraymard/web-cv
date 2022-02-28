@@ -1512,14 +1512,14 @@ time:hover{
   transition: 0.4s linear;
   height: .7rem;
   height: .7rem;
-  width: 85%;
+  width: 67%;
   animation: progressAnimation2 6s;
   background-color: #462FBE;
 }
 
 @keyframes progressAnimation2 {
   0%   { width: 5%; background-color: lightskyblue;}
-  100% { width: 85%; background-color: #462FBE; }
+  100% { width: 67%; background-color: #462FBE; }
 }
 
 
@@ -1531,14 +1531,14 @@ time:hover{
   transition: 0.4s linear;
   height: .7rem;
   height: .7rem;
-  width: 70%;
+  width: 82%;
   animation: progressAnimation3 6s;
   background-color: #462FBE;
 }
 
 @keyframes progressAnimation3 {
   0%   { width: 5%; background-color: lightskyblue;}
-  100% { width: 70%; background-color: #462FBE; }
+  100% { width: 82%; background-color: #462FBE; }
 }
 
 

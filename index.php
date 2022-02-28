@@ -46,6 +46,17 @@
     <!-- caroussel -->
     <script src="js/carousel.js"></script>
 
+    <!-- carousel 2 -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <!--<link href="https://fonts.googleapis.com/css?family=Roboto:300,400&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Source+Serif+Pro:400,600&display=swap" rel="stylesheet">-->
+    <link rel="stylesheet" href="./carousel-14/fonts/icomoon/style.css">
+    <link rel="stylesheet" href="./carousel-14/css/owl.carousel.min.css">
+    <link rel="stylesheet" href="./carousel-14/css/bootstrap.min.css">
+    <link rel="stylesheet" href="./carousel-14/css/style.css">
+
     <!-- Bootstrap CSS File -->
     <link href="lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
@@ -115,7 +126,7 @@
             <div class="container">
                 <!--<p class="display-6 color-d">Hello, world!</p>-->
                 <h1 class="intro-title mb-4">Victor Aymard</h1>
-                <p class="intro-subtitle"><span class="text-slider-items">Etudiant en ingénierie,<B>En recherche d'alternance</B>,Développeur web,UX Designer,Photographe,Vidéaste</span><strong class="text-slider"></strong></p>
+                <p class="intro-subtitle"><span class="text-slider-items">Etudiant ingénieur,Etudiant designeur,UI/UX Designer,Consultant data analyst,Graphiste,Photographe,Vidéaste</span><strong class="text-slider"></strong></p>
                 <!-- <p class="pt-3"><a class="btn btn-primary btn js-scroll px-4" href="#about" role="button">Learn More</a></p> -->
             </div>
         </div>
@@ -139,8 +150,8 @@
                                 <div class="col-sm-6 col-md-7">
                                     <div class="about-info">
                                         <p><span class="title-s">Nom: </span> <span>Victor Aymard</span></p>
-                                        <p><span class="title-s">Profil: </span> <span>Etudiant ingénieur en master</span></p>
-                                        <p><span class="title-s">Email: </span> <span><a href="mailto:victor.aymard@edu.ece.fr?subject=Tu cherches une alternance?&body=Bonjour Victor, vous ne me connaissez pas, mais je sens que nous allons bien nous entendre!" target="_blank">victor.aymard@edu.ece.fr</a></span></p>
+                                        <p><span class="title-s">Profil: </span> <span>Ingénieur designer</span></p>
+                                        <p><span class="title-s">Email: </span> <span><a href="mailto:victor.aymard@live.fr?subject=En quête de nouvelles aventures?&body=Bonjour Victor, vous ne me connaissez pas, mais je sens que nous allons bien nous entendre!" target="_blank">victor.aymard@live.fr</a></span></p>
                                         <p><span class="title-s">Téléphone: </span> <span>+33 6 40 46 32 49</span></p>
                                     </div>
                                 </div>
@@ -152,28 +163,28 @@
                                 <span>UI/UX design</span> <span class="pull-right"></span>
                                 <div class="containerok">
                                     <div class="progress-movedok">
-                                        <div class="progress-bar1 " role="progressbar" style="width: 75%; border-radius:5px;" aria-valuenow="75" aria-valuemin="0"
+                                        <div class="progress-bar1 " role="progressbar" style="width: 85%; border-radius:5px;" aria-valuenow="5" aria-valuemin="0"
                                              aria-valuemax="100" ></div>
                                     </div>
                                 </div>
 
-                                <span>Programmation web</span> <span class="pull-right"></span>
+                                <span>Programmation</span> <span class="pull-right"></span>
                                 <div class="containerok">
                                     <div class="progress-movedok">
-                                        <div class="progress-bar2 " role="progressbar" style="width: 85%; border-radius:5px;" aria-valuenow="85" aria-valuemin="0"
+                                        <div class="progress-bar2 " role="progressbar" style="width: 67%; border-radius:5px;" aria-valuenow="67" aria-valuemin="0"
                                              aria-valuemax="100" ></div>
                                     </div>
                                 </div>
 
-                                <span>Programmation Orientée Objet</span> <span class="pull-right"></span>
+                                <span>Design graphique</span> <span class="pull-right"></span>
                                 <div class="containerok">
                                     <div class="progress-movedok">
-                                        <div class="progress-bar3" role="progressbar" style="width: 70%;border-radius:5px;" aria-valuenow="70" aria-valuemin="0"
+                                        <div class="progress-bar3" role="progressbar" style="width: 82%;border-radius:5px;" aria-valuenow="82" aria-valuemin="0"
                                              aria-valuemax="100"></div>
                                     </div>
                                 </div>
 
-                                <span>Travail en équipe</span> <span class="pull-right"></span>
+                                <span>Gestion de projet</span> <span class="pull-right"></span>
                                 <div class="containerok">
                                     <div class="progress-movedok">
                                         <div class="progress-bar4" role="progressbar" style="width: 75%;border-radius:5px;" aria-valuenow="75" aria-valuemin="0"
@@ -190,20 +201,18 @@
                                     </h5>
                                 </div>
                                 <p class="lead">
-                                    Je recherche <strong id="rechercheDeStage">une alternance de 12 mois à partir d’avril 2021 </strong>
-                                    en tant que PO, PM, PrD, ou UX designer.
+                                    Je suis à la recherche de nouvelles opportunités à partir de juin 2022
+                                    
                                 </p>
                                 <p class="lead">
-                                    Actuellement en dernière année au sein de l’Ecole Centrale d’Electronique (ECE) de
-                                    Paris. J'y ai choisi la majeure "Objets Connectés Réseaux et Services". Au travers de celle-ci, j'ai
+
+                                    Je termine actuellement un double cursus ingénieur / designer. 
+                                    Après avoir complété mon master 2 à de l'Ecole Centrale d’Electronique (ECE) de
+                                    Paris ; au sein de la majeure "Objets Connectés Réseaux et Services". Au travers de celle-ci, j'ai
                                     pu me perfectionner en développement informatique, ainsi qu'acquérir de nombreuses connaissances utiles via
                                     des cours de gamification, de design thinking, et de gestion de projet.
                                 </p>
-                                <p class="lead">
-                                    Dès Avril prochain, je compte commencer un double diplôme en UX management et stratégie expérientielle afin
-                                    de mieux comprendre le point de vue utilisateur et les différentes méthodes et stratégies permettant d'améliorer
-                                    un produit en investissant mieux dans le développement.
-                                </p>
+                                
                             </div>
                         </div>
                     </div>
@@ -234,14 +243,14 @@
             <div class="col-md-4">
                 <div class="service-box">
                     <div class="service-ico">
-                        <span class="ico-circle"><i class="ion-monitor"></i></span>
+                        <span class="ico-circle"><i class="ion-code-working"></i></span>
                     </div>
                     <div class="service-content">
-                        <h2 class="s-title">Développement Web</h2>
+                        <h2 class="s-title">Développement informatique</h2>
                         <p class="s-description text-center">
-                            Je maîtrise les langages HTML, CSS, JS, ainsi que l'intégration de briques bootstaps (comme l'illustre
-                            cet e-CV). Je sais également aborder une approche fullstack JS (React, Node, Express), ainsi que mettre
-                            en place une solution d'hébergement, pour mener des projets sous tous leurs aspects.
+                        Par mes différentes expériences, j’ai pu travailler avec de nombreux langages qui 
+                        m’ont permis de me familiariser avec les différentes manières d’appréhender du code : qu’il s’agisse de web, 
+                        de mobile, de programmation orientée objet ou dédiée GPU.
                         </p>
                     </div>
                 </div>
@@ -249,13 +258,29 @@
             <div class="col-md-4">
                 <div class="service-box">
                     <div class="service-ico">
-                        <span class="ico-circle"><i class="ion-code-working"></i></span>
+                        <span class="ico-circle"><i class="ion-paintbrush"></i></span>
                     </div>
                     <div class="service-content">
-                        <h2 class="s-title">Développement informatique</h2>
+                        <h2 class="s-title">Design graphique</h2>
                         <p class="s-description text-center">
-                            J'ai pu acquérir une très bonne compréhension du code informatique (C, C++, Java) ainsi que la logique
-                            algorithmique par mes cours (théorie des graphs) ou par moi-même, via OpenClassroom.
+                        Très soucieux de l’aspect graphique de mes projets, un bon design permet une compréhension facile des messages 
+                        transmis, ce qui est primordial. Qu’il s’agisse de maquettes, de présentations ou de visuels plus généralement, 
+                        j’aime apporter de la rigueur et la créativité au service de l’affordance.
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="service-box">
+                    <div class="service-ico">
+                        <span class="ico-circle"><i class="ion-paintbrush"></i></span>
+                    </div>
+                    <div class="service-content">
+                        <h2 class="s-title">Gestion de projet</h2>
+                        <p class="s-description text-center">
+                        Ayant occupé des rôles complémentaires au sein de mes différents projets, j’arrive à avoir une bonne vision de
+                         la manière de m’adresser aux différents membres de l’équipe pour en augmenter son efficience. Je suis toujours 
+                         là pour remotiver mes coéquipiers ou orienter la barre pour arriver à bon port.
                         </p>
                     </div>
                 </div>
@@ -268,9 +293,9 @@
                     <div class="service-content">
                         <h2 class="s-title">Photographie</h2>
                         <p class="s-description text-center">
-                            Par mon rôle important au sein de l'association de photographie de l'ECE Paris, j'ai pu me familiariser
-                            avec l'art de la photo et de la vidéo, ainsi qu'avec les logiciels de la suite Adobe (Lightroom,
-                            Première, Photoshop) par de nombreux projets.
+                        Inité à la photo lors de mon mandat au sein de l’association de photo de l’ECE, j’ai pu me familiariser 
+                        avec les arts visuels que sont la photo et la vidéo dans leur ensemble. Je continue aujourd’hui divers projets 
+                        personnels ou professionnels.
                         </p>
                     </div>
                 </div>
@@ -278,29 +303,13 @@
             <div class="col-md-4">
                 <div class="service-box">
                     <div class="service-ico">
-                        <span class="ico-circle"><i class="ion-android-phone-portrait"></i></span>
+                        <span class="ico-circle"><i class="ion-easel"></i></span>
                     </div>
                     <div class="service-content">
                         <h2 class="s-title">Pédagogie</h2>
                         <p class="s-description text-center">
-                            Étant actuellement assistant sur le projet annuel des premières années de l'ECE Paris, j'aime
-                            transmettre mes connaissances et aider les plus jeunes dans leur apprentissage. J'ai également donné des
-                            cours particuliers auparavant.
-                        </p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4">
-                <div class="service-box">
-                    <div class="service-ico">
-                        <span class="ico-circle"><i class="ion-paintbrush"></i></span>
-                    </div>
-                    <div class="service-content">
-                        <h2 class="s-title">Design Graphique</h2>
-                        <p class="s-description text-center">
-                            Très soucieux de l'aspect graphique de mes projets, j'aime m'appliquer à faire des belles maquettes
-                            avant de m'occuper de la partie frontend de ceux-ci pour améliorer l'UI (interface utilisateur) et
-                            rendre l'UX (expérience utilisateur) optimale.
+                            JAncien assistant de projet au sein de l’ECE, professeur particulier et intervenant en master, j’aime transmettre
+                             mes connaissances et faire en sorte d’apporter du savoir à mon auditoire de manière simple et intéressante.
                         </p>
                     </div>
                 </div>
@@ -335,8 +344,8 @@
                         <span class="ico-circle"><i class="ion-checkmark-round"></i></span>
                     </div>
                     <div class="counter-num">
-                        <p class="counter">12</p>
-                        <span class="counter-text">MOIS D'ALTERNANCE RECHERCHÉES</span>
+                        <p class="counter">23</p>
+                        <span class="counter-text">MISSIONS DÉJÀ RÉALISÉES</span>
                     </div>
                 </div>
             </div>
@@ -540,8 +549,23 @@
                     </a>
                 </div>
             </div>
+
+            <div class="col-md-4"></div>
+            <div class="col-md-4"></div>
+            <div class="col-md-4">
+                <div class="work-box flex">
+                    
+                    <a href="./projects.html" class="work-content"  data-toggle="modal" data-target="#bientot" style="display:flex; justify-content:center">
+                        <p>Voir tout</p>
+                    </a>
+                </div>
+            </div>
+
         </div>
     </div>
+    
+    
+
 </section>
 <!--/ Section Portfolio End /-->
 
@@ -662,7 +686,9 @@
             </div>
         </div>
 
-        <div class="container text-center my-3">
+
+        <!--Caroussel 1-->
+        <!--<div class="container text-center my-3">
 
             <div class="row mx-auto my-auto">
                 <div id="recipeCarousel" class="carousel slide w-100" data-ride="carousel">
@@ -793,13 +819,156 @@
                     </a>
                     <a class="carousel-control-next w-auto" href="#recipeCarousel" role="button" data-slide="next">
                         <img src="img/arrow-right.png" aria-hidden="true" style="width: 10%; margin-left: 106%" alt="">
-                        <!--<span class="carousel-control-next-icon bg-dark border border-dark rounded-circle" aria-hidden="true"></span>-->
                         <span class="sr-only">Next</span>
                     </a>
                 </div>
             </div>
+        </div>-->
+
+
+
+
+        <!-- carousel 2-->
+
+        <div class="container">
+
+        <div class="owl-carousel slide-one-item">
+
+        <!-- <div class="d-md-flex testimony-29101 align-items-stretch">
+            <div class="image" style="background-image: url('./carousel-14/images/person_1.jpg');"></div>
+            <div class="text" style="margin-top :-5%;">
+            <h3 class="card-title">Erasmus Student Network</h3>
+            <blockquote>
+                <p> 
+                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Temporibus, at! Atque totam obcaecati veniam eius vero, similique quibusdam! Sunt sequi, nemo. Quam consequuntur ipsum suscipit repellat molestiae laboriosam, incidunt!
+
+                </p>
+                <button type="button" class="" data-toggle="modal" data-target="#jbtvModal">En savoir plus</button>
+            </blockquote>
+            </div>
+        </div>   .item -->
+
+
+        
+        <div class="d-md-flex testimony-29101 align-items-stretch testiheight" >
+            <div class="image" style="background-image: url('./carousel-14/images/associatif.jpg');"></div>
+            <div class="text" style="margin-top :-5%;">
+            <h3 class="card-title">Expérience associative</h3>
+            <blockquote>
+                <p> 
+                    Découverte durant ma scolarité, j’ai adoré l’expérience asociative pour le panel de personnes qu’elle 
+                    permet de rencontrer, la grandeur des projets qu’il est possible de faire et l’engouement qu’il est 
+                    possible de réunir entre plusieurs personnes pour un but commun. 
+                    <!--<br></br>
+                    Amateur de nouveauté j’ai pu m’investir au sein d’associations spécifiques comme une de robotique 
+                    (robopoly) ou autre de photographie (JBTV) , aller vers des évènements plus festifs avec Satellite 
+                    à Lausanne ou ESN à Paris. Le début de la crise du covid ayant été particulièrement difficile pour 
+                    certains étudiants, j’ai également fait un bout de chemin au sein de Co’p1 solidarité étudiante afin 
+                    d’aider celles et ceux qui étaient le plus dans le besoin.
+                    <br></br>
+                    En plus de m’investir en tant que membre actif au sein différentes associations, j’ai également 
+                    endossé le rôle de trésorier de la JBTV durant 1 an.-->
+                    <button type="button" class="" data-toggle="modal" data-target="#assoModal">En savoir plus</button>
+                
+                </p>
+            </blockquote>
+            </div>
+        </div>  <!-- .item -->
+
+        
+
+        <div class="d-md-flex testimony-29101 align-items-stretch testiheight">
+            <div class="image" style="background-image: url('./carousel-14/images/DG.jpg');"></div>
+            <div class="text" style="margin-top :-5%;">
+            <h3 class="card-title">Design graphique</h3>
+            <blockquote>
+                <p> 
+                    Découverte durant ma scolarité, j’ai adoré l’expérience asociative pour le panel de personnes qu’elle
+                    permet de rencontrer, la grandeur des projets qu’il est possible de faire et l’engouement qu’il est 
+                    possible de réunir entre plusieurs personnes pour un but commun. 
+
+                    <!--Amateur de nouveauté j’ai pu m’investir au sein d’associations spécifiques comme une de robotique 
+                    (robopoly) ou autre de photographie (JBTV) , aller vers des évènements plus festifs avec Satellite 
+                    à Lausanne ou ESN à Paris. Le début de la crise du covid ayant été particulièrement difficile pour 
+                    certains étudiants, j’ai également fait un bout de chemin au sein de Co’p1 solidarité étudiante afin 
+                    d’aider celles et ceux qui étaient le plus dans le besoin.
+
+                    En plus de m’investir en tant que membre actif au sein différentes associations, j’ai également 
+                    endossé le rôle de trésorier de la JBTV durant 1 an.-->
+                </p>
+            </blockquote>
+            </div>
+        </div>  <!-- .item -->
+
+
+
+        <div class="d-md-flex testimony-29101 align-items-stretch testiheight" >
+            <div class="image" style="background-image: url('./carousel-14/images/TK.jpg');"></div>
+            <div class="text" style="margin-top :-5%;">
+            <h3 class="card-title">The Kitsch</h3>
+            <blockquote>
+                <p> 
+                The kitsch est un groupe musique indi pop funk fondé en 2020 par 5 jeunes musiciens, presque tous moustachus.
+                <br></br>
+                <!-- J’ai rejoins cette belle équipe dès son commencement dans l’optique de faire quelques photos. Je suis allé 
+                un peu plus loin en m’occupant de tous leurs contenus visuels. Allant des photos aux logos en passant par des 
+                captations vidéos et la gestion des réseaux sociaux et de la communication au sens plus large.
+                <br></br>-->
+                
+                <button type="button" class="" data-toggle="modal" data-target="#jbtvModal">En savoir plus</button>
+                Pour en savoir plus :
+                </p>
+                <div class="d-flex justify-content-start">
+                    <a href="https://www.instagram.com/_thekitsch_/"><img src="./carousel-14/images/instagram.png" style="height: 25px; width:25px" alt="" class="img-fluid"></a>
+                    <a href="https://butter-snapdragon-e8a.notion.site/The-Kitsch-a71e2c7b9d414661a1c4dac98a8fb0f8"><img src="./carousel-14/images/notion.png" style="height: 35px; width:35px; position: relative; top:-5px" alt="" class="img-fluid"></a>
+                    <a href="https://www.youtube.com/channel/UC5N-yxf6hl-5kMdtee1H_Sw"><img src="./carousel-14/images/youtube.png" style="height: 28px; width:28px" alt="" class="img-fluid"></a>
+                </div>
+            </blockquote>
+            </div>
+        </div>  <!-- .item -->
+
+
+        <div class="d-md-flex testimony-29101 align-items-stretch testiheight"style=" max-heiht: 80px">
+            <div class="image" style="background-image: url('./carousel-14/images/photo.jpg');"></div>
+            <div class="text">
+            <h3 class="card-title">Photo & vidéo</h3>
+            <blockquote>
+                <p> 
+                Depuis mon passage au sein de l’association d’audio visuel de l’ECE :  la JBTV, j’ai découvert un vrai hobbie 
+                dans le fait de faire de la photo et de la vidéo. Vous me verrez d’ailleurs rarement sans un appareil sur moi !
+                </p>
+                <button type="button" class="" data-toggle="modal" data-target="#jbtvModal">En savoir plus</button>
+            </blockquote>
+            </div>
+        </div>  <!-- .item -->
+
+
+        <div class="d-md-flex testimony-29101 align-items-stretch testiheight">
+            <div class="image" style="background-image: url('./img/long1.jpg');"></div>
+            <div class="text" style="margin-top :-5%;">
+            <h3 class="card-title">Longboarding</h3>
+            <blockquote>
+                <p> 
+                Entre moyen de locomotion et sport artistique avec le longboard dancing, vous me verrez rarement sans
+                ma fidèle planche à roulette, qui permet autant de me défouler, que d'arriver à l'heure.
+                </p>
+            </blockquote>
+            </div>
+        </div>  <!-- .item -->
+
         </div>
+
+
+        </div>
+        <!-- carousel 2 end -->
+
+
+
+
     </div> 
+
+
+
 </section>
 
 
@@ -839,12 +1008,83 @@
                     <source src="img/modals-asso/teaser1.4.mp4"
                             type="video/mp4">
                     Sorry, your browser doesn't support embedded videos.
+                    go to : https://youtu.be/vuOuEdyxHUo
                 </video>
+
             </div>
         </div>
     </div>
 </div>
 
+<div class="modal fade bd-example-modal-xl" id="assoModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-xl" role="document">
+        <div class="modal-content" >
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Expérience associative</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body text-justify flex">
+                <div>
+                    Amateur de nouveauté j’ai pu m’investir au sein d’associations spécifiques comme une de robotique 
+                    (robopoly) ou autre de photographie (JBTV) , aller vers des évènements plus festifs avec Satellite 
+                    à Lausanne ou ESN à Paris. Le début de la crise du covid ayant été particulièrement difficile pour 
+                    certains étudiants, j’ai également fait un bout de chemin au sein de Co’p1 solidarité étudiante afin 
+                    d’aider celles et ceux qui étaient le plus dans le besoin.
+                    <br></br>
+                    En plus de m’investir en tant que membre actif au sein différentes associations, j’ai également 
+                    endossé le rôle de trésorier de la JBTV durant 1 an.
+                </div><br>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade bd-example-modal-xl" id="theKitchModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-xl" role="document">
+        <div class="modal-content" >
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">The Kitsch</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body text-justify flex">
+                <div>
+                    Amateur de nouveauté j’ai pu m’investir au sein d’associations spécifiques comme une de robotique 
+                    (robopoly) ou autre de photographie (JBTV) , aller vers des évènements plus festifs avec Satellite 
+                    à Lausanne ou ESN à Paris. Le début de la crise du covid ayant été particulièrement difficile pour 
+                    certains étudiants, j’ai également fait un bout de chemin au sein de Co’p1 solidarité étudiante afin 
+                    d’aider celles et ceux qui étaient le plus dans le besoin.
+                    <br></br>
+                    En plus de m’investir en tant que membre actif au sein différentes associations, j’ai également 
+                    endossé le rôle de trésorier de la JBTV durant 1 an.
+                </div><br>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade bd-example-modal-xl" id="bientot" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-xl" role="document">
+        <div class="modal-content" >
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Section non disponible pour le moment</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body text-justify flex">
+                <div>
+                    Page en cours de rédaction, elle sera disponible d’ici quelques jours !
+                    <br></br>
+                    Si vous voulez en savoir plus, n’hésitez pas à me contacter.
+                </div><br>
+            </div>
+        </div>
+    </div>
+</div>
 
 
 <!-- Design graphique -->
@@ -858,11 +1098,12 @@
                 </button>
             </div>
             <div class="modal-body flex">
-                <iframe
-                        style="border: 1px solid rgba(0, 0, 0, 0.1);"
-                        width="100%"  height="500"
-                        src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FLR7hW60ABtO3afVE8afa6x%2Fportoflio-victor-aymard%3Fnode-id%3D272%253A37"
-                        allowfullscreen>
+                <iframe 
+                    style="border: 1px solid rgba(0, 0, 0, 0.1);" 
+                    width="800" 
+                    height="450" 
+                    src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FLR7hW60ABtO3afVE8afa6x%2Fportoflio-victor-aymard%3Fnode-id%3D272%253A37" 
+                    allowfullscreen>
                 </iframe>
             </div>
         </div>
@@ -939,7 +1180,7 @@
                                     <ul class="list-ico">
                                         <li><span class="ion-ios-location"></span> 101 rue Balard, 75015 Paris</li>
                                         <li><span class="ion-ios-telephone"></span> +33 6 40 46 32 49</li>
-                                        <li><span class="ion-email"></span> <a href="mailto:victor.aymard@edu.ece.fr?subject=Tu cherches une alternance?&body=Bonjour Victor, vous ne me connaissez pas, mais je sens que nous allons bien nous entendre!" target="_blank">victor.aymard@edu.ece.fr</a></li>
+                                        <li><span class="ion-email"></span> <a href="mailto:victor.aymard@live.fr?subject=Tu cherches une alternance?&body=Bonjour Victor, vous ne me connaissez pas, mais je sens que nous allons bien nous entendre!" target="_blank">victor.aymard@live.fr</a></li>
                                     </ul>
                                 </div>
                                 <div class="socials">
@@ -947,6 +1188,7 @@
                                         <li><a href="https://www.linkedin.com/in/victor-aymard-324b75150/" target="_blank"><span class="ico-circle"><i class="ion-social-linkedin"></i></span></a></li>
                                         <li><a href="https://github.com/victoraymard" target="_blank"><span class="ico-circle"><i class="ion-social-github"></i></span></a></li>
                                         <li><a href="https://dribbble.com/bosetti" target="_blank"><span class="ico-circle"><i class="ion-social-dribbble"></i></span></a></li>
+                                        <li><a href="https://dribbble.com/bosetti" target="_blank"><span class="ico-circle"><i class="ion-social-light"></i></span></a></li>
                                         <!--<li><a href="https://www.figma.com/file/LR7hW60ABtO3afVE8afa6x/portoflio-victor-aymard?node-id=0%3A1" target="_blank"><span class="ico-circle"><i class="ion-social-figma"></i></span></a></li>-->
                                     </ul>
                                 </div>
@@ -1003,6 +1245,13 @@
 <script src="js/timeline.js"></script>
 <!-- Carousel -->
 <script type="text/javascript" src="js/carousel.js"></script>
+
+<!-- Carousel 2 -->
+<script src="./carousel-14/js/jquery-3.3.1.min.js"></script>
+<script src="./carousel-14/js/popper.min.js"></script>
+<script src="./carousel-14/js/bootstrap.min.js"></script>
+<script src="./carousel-14/js/owl.carousel.min.js"></script>
+<script src="./carousel-14/js/main.js"></script>
 
 
 </body>
