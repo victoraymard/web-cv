@@ -201,16 +201,17 @@
                                     </h5>
                                 </div>
                                 <p class="lead">
-                                    Je suis à la recherche de nouvelles opportunités à partir de juin 2022
-                                    
+                                En quête de nouveaux horizons et d’opportunités stimulantes et palpitantes pour 2022
+                                <br></br>
                                 </p>
                                 <p class="lead">
 
-                                    Je termine actuellement un double cursus ingénieur / designer. 
-                                    Après avoir complété mon master 2 à de l'Ecole Centrale d’Electronique (ECE) de
-                                    Paris ; au sein de la majeure "Objets Connectés Réseaux et Services". Au travers de celle-ci, j'ai
-                                    pu me perfectionner en développement informatique, ainsi qu'acquérir de nombreuses connaissances utiles via
-                                    des cours de gamification, de design thinking, et de gestion de projet.
+                                Je termine actuellement un double cursus ingénieur / designer au sein de l’ECE Paris et de Sup de Pub.
+                            
+                                Je souhaiterais pouvoir mettre à profit et développer les deux facettes que j’ai pu découvrir lors de 
+                                mes formations. Je suis à l’écoute de toute proposition transverse liant projets technologiques et 
+                                dimension produit ayant une attention particulière sur l’expérience des utilisateurs. Je cherche à 
+                                rejoindre une équipe dynamique utilisant des méthodes et technologies modernes.
                                 </p>
                                 
                             </div>
@@ -553,7 +554,7 @@
             <div class="col-md-4"></div>
             <div class="col-md-4"></div>
             <div class="col-md-4">
-                <div class="work-box flex">
+                <div class="work-box-btn flex">
                     
                     <a href="./projects.html" class="work-content"  data-toggle="modal" data-target="#bientot" style="display:flex; justify-content:center">
                         <p>Voir tout</p>
@@ -584,6 +585,18 @@
                 <section class="timeline"  style="height: 100%">
                     <h3 class="title-a" style="justify-content: center; text-align: center; color: rgba(255, 255, 255, 0.8)">Mon Parcours</h3>
                     <ul>
+
+                    <li>
+                            <div>
+                                <a title="Plus d'infos sur le master" href="https://www.supdepub.com/niveaux-detudes/formation-master-2/sp5-ux-management-design-thinking/" target="_blank">
+                                    <time>Avril 2021</time>
+                                </a>
+                                <article style="display: flex; flex-direction: row; justify-content: center; align-items: center">
+                                    <p>Moi aujourd'hui</p>
+                                    <img src="img/sup_de_pub.png" style="width: 50%;" alt="">
+                                </article>
+                            </div>
+                        </li>
 
                         <li>
                             <div>
@@ -669,7 +682,7 @@
 </div>
 
 <!--/ Section Blog Star /-->
-<section id="blog" class="blog-mf sect-pt4 route">
+<section id="blog" class="blog-mf sect-pt4 route" style="padding-bottom:40px">
 
     <div class="container">
         <div class="row">
@@ -850,15 +863,15 @@
 
 
         
-        <div class="d-md-flex testimony-29101 align-items-stretch testiheight" >
+        <div class="d-md-flex testimony-29101 align-items-stretch testiheight service-box" >
             <div class="image" style="background-image: url('./carousel-14/images/associatif.jpg');"></div>
             <div class="text" style="margin-top :-5%;">
             <h3 class="card-title">Expérience associative</h3>
             <blockquote>
                 <p> 
-                    Découverte durant ma scolarité, j’ai adoré l’expérience asociative pour le panel de personnes qu’elle 
-                    permet de rencontrer, la grandeur des projets qu’il est possible de faire et l’engouement qu’il est 
-                    possible de réunir entre plusieurs personnes pour un but commun. 
+                Découverte durant ma scolarité, j’ai adoré l’expérience associative pour le panel de personnes qu’elle 
+                permet de rencontrer, la grandeur des projets qu’il est possible de faire et l’engouement qui réunit 
+                plusieurs personnes autoure d’un but commun.  
                     <!--<br></br>
                     Amateur de nouveauté j’ai pu m’investir au sein d’associations spécifiques comme une de robotique 
                     (robopoly) ou autre de photographie (JBTV) , aller vers des évènements plus festifs avec Satellite 
@@ -868,7 +881,8 @@
                     <br></br>
                     En plus de m’investir en tant que membre actif au sein différentes associations, j’ai également 
                     endossé le rôle de trésorier de la JBTV durant 1 an.-->
-                    <button type="button" class="" data-toggle="modal" data-target="#assoModal">En savoir plus</button>
+                    <br></br>
+                    <button type="button" class="button button-a button-medium " data-toggle="modal" data-target="#assoModal" style="font-size: 16px; padding-left:15px; padding-right:15px">En savoir plus</button>
                 
                 </p>
             </blockquote>
@@ -877,7 +891,7 @@
 
         
 
-        <div class="d-md-flex testimony-29101 align-items-stretch testiheight">
+        <div class="d-md-flex testimony-29101 align-items-stretch testiheight service-box" style="margin:10px">
             <div class="image" style="background-image: url('./carousel-14/images/DG.jpg');"></div>
             <div class="text" style="margin-top :-5%;">
             <h3 class="card-title">Design graphique</h3>
@@ -896,39 +910,44 @@
                     En plus de m’investir en tant que membre actif au sein différentes associations, j’ai également 
                     endossé le rôle de trésorier de la JBTV durant 1 an.-->
                 </p>
+                <br></br>
+                <button type="button" class="button button-a button-medium " data-toggle="modal" data-target="#designModal" style="font-size: 16px; padding-left:15px; padding-right:15px">En savoir plus</button>
+                
             </blockquote>
             </div>
         </div>  <!-- .item -->
 
 
 
-        <div class="d-md-flex testimony-29101 align-items-stretch testiheight" >
+        <div class="d-md-flex testimony-29101 align-items-stretch testiheight service-box" style="margin:10px">
             <div class="image" style="background-image: url('./carousel-14/images/TK.jpg');"></div>
             <div class="text" style="margin-top :-5%;">
             <h3 class="card-title">The Kitsch</h3>
             <blockquote>
                 <p> 
-                The kitsch est un groupe musique indi pop funk fondé en 2020 par 5 jeunes musiciens, presque tous moustachus.
+                The kitsch est un groupe musique indi pop funk fondé en 2020 par 5 jeunes musiciens, presque tous moustachus. 
                 <br></br>
+                J’ai rejoint cette belle équipe dès son commencement avec la volonté d’apprendre la photo à leurs côté. Je m’occupe de l’aspect visuel du groupe (sous toutes ses formes) et de sa communication 
                 <!-- J’ai rejoins cette belle équipe dès son commencement dans l’optique de faire quelques photos. Je suis allé 
                 un peu plus loin en m’occupant de tous leurs contenus visuels. Allant des photos aux logos en passant par des 
                 captations vidéos et la gestion des réseaux sociaux et de la communication au sens plus large.
                 <br></br>-->
+                <br></br>
                 
-                <button type="button" class="" data-toggle="modal" data-target="#jbtvModal">En savoir plus</button>
-                Pour en savoir plus :
+                <button type="button" class="button button-a button-medium " data-toggle="modal" data-target="#theKitchModal" style="font-size: 16px; padding-left:15px; padding-right:15px">En savoir plus</button>
+              
                 </p>
-                <div class="d-flex justify-content-start">
+                <!--<div class="d-flex justify-content-start">
                     <a href="https://www.instagram.com/_thekitsch_/"><img src="./carousel-14/images/instagram.png" style="height: 25px; width:25px" alt="" class="img-fluid"></a>
                     <a href="https://butter-snapdragon-e8a.notion.site/The-Kitsch-a71e2c7b9d414661a1c4dac98a8fb0f8"><img src="./carousel-14/images/notion.png" style="height: 35px; width:35px; position: relative; top:-5px" alt="" class="img-fluid"></a>
                     <a href="https://www.youtube.com/channel/UC5N-yxf6hl-5kMdtee1H_Sw"><img src="./carousel-14/images/youtube.png" style="height: 28px; width:28px" alt="" class="img-fluid"></a>
-                </div>
+                </div>-->
             </blockquote>
             </div>
         </div>  <!-- .item -->
 
 
-        <div class="d-md-flex testimony-29101 align-items-stretch testiheight"style=" max-heiht: 80px">
+        <div class="d-md-flex testimony-29101 align-items-stretch testiheight service-box"style=" max-heiht: 80px; margin:10px">
             <div class="image" style="background-image: url('./carousel-14/images/photo.jpg');"></div>
             <div class="text">
             <h3 class="card-title">Photo & vidéo</h3>
@@ -937,13 +956,14 @@
                 Depuis mon passage au sein de l’association d’audio visuel de l’ECE :  la JBTV, j’ai découvert un vrai hobbie 
                 dans le fait de faire de la photo et de la vidéo. Vous me verrez d’ailleurs rarement sans un appareil sur moi !
                 </p>
-                <button type="button" class="" data-toggle="modal" data-target="#jbtvModal">En savoir plus</button>
+                <br></br>
+                <button type="button" class="button button-a button-medium " data-toggle="modal" data-target="#photoModal" style="font-size: 16px; padding-left:15px; padding-right:15px">En savoir plus</button>
             </blockquote>
             </div>
         </div>  <!-- .item -->
 
 
-        <div class="d-md-flex testimony-29101 align-items-stretch testiheight">
+        <div class="d-md-flex testimony-29101 align-items-stretch testiheight service-box" style="margin:10px">
             <div class="image" style="background-image: url('./img/long1.jpg');"></div>
             <div class="text" style="margin-top :-5%;">
             <h3 class="card-title">Longboarding</h3>
@@ -1016,6 +1036,122 @@
     </div>
 </div>
 
+<div class="modal fade bd-example-modal-xl" id="designModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-xl" role="document">
+        <div class="modal-content" >
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">JBTV</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body text-justify flex">
+                <iframe 
+                    style="border: 1px solid rgba(0, 0, 0, 0.1);" 
+                    width="800" 
+                    height="450" 
+                    src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FLR7hW60ABtO3afVE8afa6x%2Fportoflio-victor-aymard%3Fnode-id%3D272%253A37" 
+                    allowfullscreen>
+                </iframe>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="modal fade bd-example-modal-xl" id="photoModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-xl" role="document">
+        <div class="modal-content" >
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">JBTV</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body text-justify flex">
+                <div>
+                    Au cours des 3 dernières années et au fil des rencontres, j’ai pu participer à différents projets (plus ou moins réussi) dans la simple optique de passer du bon temps et de s’amuser. 
+                    <br></br>
+                    Je vous laisse avec une petite sélection de quelques photos et vidéos pour vous en faire une idée.</div><br/>
+                <div>
+                    Voici donc une petite sélection de mes clichés ainsi que l’un des projets vidéo auxquels j’ai participé.
+                </div><br>
+                <iframe 
+                        width="560" 
+                        height="315" 
+                        src="https://lightroom.adobe.com/u/victoraymard1?_branch_match_id=1022865207637499359&_open_delay_ms=3000&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXz8lMzygpys%2FP1UssKNDLyczL1i81c0wtcHPKjchPAgDBOhGwJgAAAA%3D%3D" 
+                        title="YouTube video player" 
+                        frameborder="0" 
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+                        allowfullscreen>
+                    </iframe>
+
+                
+                <h3>Phototech</h3>
+                <div class="flex-row"
+                    
+                    <a href="https://lh3.googleusercontent.com/veg01SbNkwQRlMFPqZ2i-2vGgw1bje6o4YKOrOl5u5G_3kQjnoWkT0abd4K7DaADQLzrnW4GnqiMckN7ktJGBnarCxGq3mECFwBk3sxzbObnCX8KJkFDXRrDS73ASUeYtxyLBKWC54s=w2400?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/veg01SbNkwQRlMFPqZ2i-2vGgw1bje6o4YKOrOl5u5G_3kQjnoWkT0abd4K7DaADQLzrnW4GnqiMckN7ktJGBnarCxGq3mECFwBk3sxzbObnCX8KJkFDXRrDS73ASUeYtxyLBKWC54s=w600-h315-p-k" /> </a>
+                    <a href="https://lh3.googleusercontent.com/dU4d18V3cGXxwoNhRcKazatVN56ZrYNb0q3n74qTOwsVONEhDD4LFrPypQ_iPGYMVdcxy5JpohXY12oayIvZVwCdQmE6SIq71ywVZrG7XFWPXATBF_VBgwSxSrPW4SnJu4q8V6T4TNc=w2400?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/dU4d18V3cGXxwoNhRcKazatVN56ZrYNb0q3n74qTOwsVONEhDD4LFrPypQ_iPGYMVdcxy5JpohXY12oayIvZVwCdQmE6SIq71ywVZrG7XFWPXATBF_VBgwSxSrPW4SnJu4q8V6T4TNc=w600-h315-p-k" /> </a>
+                    <a href="https://lh3.googleusercontent.com/hIK8yhioL2NuTyV973QAsr17IoVklrhMdXrUx_fZuwrb4dkJv50U4qzup7t7bxWi4PxZ4dQH2gsoIsAOIHVQgtLpTTgr6d4jQpWUwUllCUaiecKKhOxI7Up4Dq0d4LEp8P-ZkerIqEI=w2400?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/hIK8yhioL2NuTyV973QAsr17IoVklrhMdXrUx_fZuwrb4dkJv50U4qzup7t7bxWi4PxZ4dQH2gsoIsAOIHVQgtLpTTgr6d4jQpWUwUllCUaiecKKhOxI7Up4Dq0d4LEp8P-ZkerIqEI=w600-h315-p-k" /> </a>
+                    <a href="https://lh3.googleusercontent.com/Gyf_LivtV3FNb2sKqy9JsPPgIPqSSe731cNLepyuaniE2090aJAU7dVDQq88EZYPw2DVhQe2RCWPQsRFNa8t_bXF6jVgsMnUfhs1ZnCszBVfczbNt4D-mU6E3YyCVDL_vi94vwVPV_Q=w2400?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/Gyf_LivtV3FNb2sKqy9JsPPgIPqSSe731cNLepyuaniE2090aJAU7dVDQq88EZYPw2DVhQe2RCWPQsRFNa8t_bXF6jVgsMnUfhs1ZnCszBVfczbNt4D-mU6E3YyCVDL_vi94vwVPV_Q=w600-h315-p-k" /> </a>
+                    <a href="https://lh3.googleusercontent.com/71q5sBRSAGpaTdOp3MuRMLzvtge0hiUARRWgLsLwpku0IDiPQUENdHyM8U8b4dOs1CDo-d1022MJ7nAWGTL5qQ9pQpQK4XL06c0KT3lvkIPA_mChjAPtZ5fU5kdDDB64JLV65mXxmog=w2400?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/71q5sBRSAGpaTdOp3MuRMLzvtge0hiUARRWgLsLwpku0IDiPQUENdHyM8U8b4dOs1CDo-d1022MJ7nAWGTL5qQ9pQpQK4XL06c0KT3lvkIPA_mChjAPtZ5fU5kdDDB64JLV65mXxmog=w600-h315-p-k" /> </a>
+                </div>
+                <br></br>
+
+
+                <div>
+                    <h3>Vidéotech</h3>
+
+                    JBTV
+                    <iframe 
+                        width="560" 
+                        height="315" 
+                        src="https://www.youtube-nocookie.com/embed/vuOuEdyxHUo" 
+                        title="YouTube video player" 
+                        frameborder="0" 
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+                        allowfullscreen>
+                    </iframe>
+
+                    The Kitsch
+                    <iframe 
+                        width="420" 
+                        height="315" 
+                        src="https://www.youtube-nocookie.com/embed/AyS5kYRBXSU" 
+                        title="YouTube video player" 
+                        frameborder="0" 
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+                        allowfullscreen>
+                    </iframe>
+
+                    Didier Gravissime
+                    <iframe
+                        width="'420" 
+                        height="315" 
+                        src="https://www.youtube.com/embed/mseKmkr-3yU" 
+                        title="YouTube video player" 
+                        frameborder="0" 
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+                        allowfullscreen>
+                    </iframe>
+
+                </div>
+
+               
+
+                
+
+                
+                
+
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
 <div class="modal fade bd-example-modal-xl" id="assoModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
     <div class="modal-dialog modal-xl" role="document">
         <div class="modal-content" >
@@ -1027,14 +1163,13 @@
             </div>
             <div class="modal-body text-justify flex">
                 <div>
-                    Amateur de nouveauté j’ai pu m’investir au sein d’associations spécifiques comme une de robotique 
-                    (robopoly) ou autre de photographie (JBTV) , aller vers des évènements plus festifs avec Satellite 
-                    à Lausanne ou ESN à Paris. Le début de la crise du covid ayant été particulièrement difficile pour 
-                    certains étudiants, j’ai également fait un bout de chemin au sein de Co’p1 solidarité étudiante afin 
-                    d’aider celles et ceux qui étaient le plus dans le besoin.
-                    <br></br>
-                    En plus de m’investir en tant que membre actif au sein différentes associations, j’ai également 
-                    endossé le rôle de trésorier de la JBTV durant 1 an.
+                    Amateur de nouveauté, j’ai pu m’investir au sein d’associations de robotique (robopoly), de photographie
+                     (JBTV) et d’événementiel avec Satellite à Lausanne ou ESN à Paris. Le début de la crise du covid ayant 
+                     été particulièrement difficile pour certains étudiants, j’ai également fait un bout de chemin au sein de 
+                     Co’p1 solidarité étudiante afin d’aider celles et ceux qui étaient le plus dans le besoin.
+                     <br></br>
+                    En plus de m’investir en tant que membre actif au sein de différentes associations, j’ai également endossé 
+                    le rôle de trésorier de la JBTV durant 1 an.
                 </div><br>
             </div>
         </div>
@@ -1052,14 +1187,10 @@
             </div>
             <div class="modal-body text-justify flex">
                 <div>
-                    Amateur de nouveauté j’ai pu m’investir au sein d’associations spécifiques comme une de robotique 
-                    (robopoly) ou autre de photographie (JBTV) , aller vers des évènements plus festifs avec Satellite 
-                    à Lausanne ou ESN à Paris. Le début de la crise du covid ayant été particulièrement difficile pour 
-                    certains étudiants, j’ai également fait un bout de chemin au sein de Co’p1 solidarité étudiante afin 
-                    d’aider celles et ceux qui étaient le plus dans le besoin.
-                    <br></br>
-                    En plus de m’investir en tant que membre actif au sein différentes associations, j’ai également 
-                    endossé le rôle de trésorier de la JBTV durant 1 an.
+                <iframe src="https://embednotion.com/embed/2p3hascx"></iframe>  
+                    <style>     
+                        iframe { width: 100%; height: 500px; border: 2px solid #ccc; border-radius: 10px; padding: none; }     
+                    </style>
                 </div><br>
             </div>
         </div>
@@ -1100,7 +1231,7 @@
             <div class="modal-body flex">
                 <iframe 
                     style="border: 1px solid rgba(0, 0, 0, 0.1);" 
-                    width="800" 
+                    width="1000px" 
                     height="450" 
                     src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FLR7hW60ABtO3afVE8afa6x%2Fportoflio-victor-aymard%3Fnode-id%3D272%253A37" 
                     allowfullscreen>
@@ -1180,7 +1311,7 @@
                                     <ul class="list-ico">
                                         <li><span class="ion-ios-location"></span> 101 rue Balard, 75015 Paris</li>
                                         <li><span class="ion-ios-telephone"></span> +33 6 40 46 32 49</li>
-                                        <li><span class="ion-email"></span> <a href="mailto:victor.aymard@live.fr?subject=Tu cherches une alternance?&body=Bonjour Victor, vous ne me connaissez pas, mais je sens que nous allons bien nous entendre!" target="_blank">victor.aymard@live.fr</a></li>
+                                        <li><span class="ion-email"></span> <a href="mailto:victor.aymard@live.fr?subject=Prêt pour une nouvelle aventure?&body=Bonjour Victor, vous ne me connaissez pas, mais je sens que nous allons bien nous entendre!" target="_blank">victor.aymard@live.fr</a></li>
                                     </ul>
                                 </div>
                                 <div class="socials">
@@ -1188,7 +1319,7 @@
                                         <li><a href="https://www.linkedin.com/in/victor-aymard-324b75150/" target="_blank"><span class="ico-circle"><i class="ion-social-linkedin"></i></span></a></li>
                                         <li><a href="https://github.com/victoraymard" target="_blank"><span class="ico-circle"><i class="ion-social-github"></i></span></a></li>
                                         <li><a href="https://dribbble.com/bosetti" target="_blank"><span class="ico-circle"><i class="ion-social-dribbble"></i></span></a></li>
-                                        <li><a href="https://dribbble.com/bosetti" target="_blank"><span class="ico-circle"><i class="ion-social-light"></i></span></a></li>
+                                        <li><a href="https://lightroom.adobe.com/u/victoraymard1?_branch_match_id=1039256390890409112&_open_delay_ms=3000&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXz8lMzygpys%2FP1UssKNDLyczL1k%2F2TjKtTDaMCMtPAgARGV%2BqJgAAAA%3D%3D" target="_blank"><span class="ico-circle"><i class="ion-social-light"><img src="img/ligthroom.png" style="max-height: 21px; position: relative; top: -2px" ></i></span></a></li>
                                         <!--<li><a href="https://www.figma.com/file/LR7hW60ABtO3afVE8afa6x/portoflio-victor-aymard?node-id=0%3A1" target="_blank"><span class="ico-circle"><i class="ion-social-figma"></i></span></a></li>-->
                                     </ul>
                                 </div>

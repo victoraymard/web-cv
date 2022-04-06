@@ -22,10 +22,10 @@ a {
 h2 {
   font-size: 20px; }
 
-  .slide-one-item{
+  .slide-one-item_old{
    
   box-shadow: 10px 5px 5px rgba(0, 0, 0, 0.082); 
-  border-radius: 5px;x
+  border-radius: 5px;
 }
 
 /* Carousel 4*/
@@ -37,10 +37,14 @@ h2 {
 }
 
 
-.testimony-29101 .image {
+.testimony-29101 .image{
   width: 35%;
   background-size: cover;
-  background-position: center center; }
+  background-position: center center; 
+  border-radius: 10px; 
+  min-height: 350px;
+  margin-left: 20px; 
+  }
   @media (max-width: 991.98px) {
     .testimony-29101 .image {
       height: 300px; } }
@@ -52,7 +56,7 @@ h2 {
 .testimony-29101 .text {
   width: 65%;
   padding: 3rem 4rem 3rem 4rem;
-  background: #ffffff; }
+  /*background: #ffffff; */}
   .testimony-29101 .text blockquote {
     position: relative;
     padding-top: 10px;
@@ -98,7 +102,7 @@ h2 {
 
 .slide-one-item .owl-dots {
   position: absolute;
-  bottom: 20px;
+  bottom: -40px;
   width: 100%;
   text-align: center;
   z-index: 2; }
@@ -116,3 +120,5 @@ h2 {
     .slide-one-item .owl-dots .owl-dot.active > span {
       width: 15px;
       background: #007bff; }
+
+
