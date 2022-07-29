@@ -206,7 +206,7 @@
                                 </p>
                                 <p class="lead">
 
-                                Je termine actuellement un double cursus ingénieur / designer au sein de l’ECE Paris et de Sup de Pub.
+                                Fraichement diplomé d'un double cursus ingénieur / designer au sein de l’ECE Paris et de Sup de Pub.
                             
                                 Je souhaiterais pouvoir mettre à profit et développer les deux facettes que j’ai pu découvrir lors de 
                                 mes formations. Je suis à l’écoute de toute proposition transverse liant projets technologiques et 
@@ -556,7 +556,11 @@
             <div class="col-md-4">
                 <div class="work-box-btn flex">
                     
-                    <a href="./projects.html" class="work-content"  data-toggle="modal" data-target="#bientot" style="display:flex; justify-content:center">
+                    <!--<a href="./projects.html" class="work-content"  data-toggle="modal" data-target="#bientot" style="display:flex; justify-content:center">
+                        <p>Voir tout</p>
+                    </a>-->
+
+                    <a href="./projects.html" class="work-content"   style="display:flex; justify-content:center">
                         <p>Voir tout</p>
                     </a>
                 </div>
@@ -588,12 +592,10 @@
 
                     <li>
                             <div>
-                                <a title="Plus d'infos sur le master" href="https://www.supdepub.com/niveaux-detudes/formation-master-2/sp5-ux-management-design-thinking/" target="_blank">
-                                    <time>Avril 2021</time>
-                                </a>
+                               
                                 <article style="display: flex; flex-direction: row; justify-content: center; align-items: center">
-                                    <p>Moi aujourd'hui</p>
-                                    <img src="img/sup_de_pub.png" style="width: 50%;" alt="">
+                                    <p>Vous avez une suite à me proposer ?</p>
+                                    <img src="img/vico_icon.png" style="width: 50%;" alt="">
                                 </article>
                             </div>
                         </li>
@@ -1187,7 +1189,7 @@
             </div>
             <div class="modal-body text-justify flex">
                 <div>
-                <iframe src="https://embednotion.com/embed/2p3hascx"></iframe>  
+                <iframe src="https://v1.embednotion.com/embed/2cb65317c4c9494084e6d620ec405c6b"></iframe>  
                     <style>     
                         iframe { width: 100%; height: 500px; border: 2px solid #ccc; border-radius: 10px; padding: none; }     
                     </style>
