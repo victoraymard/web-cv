@@ -201,16 +201,14 @@
                                     </h5>
                                 </div>
                                 <p class="lead">
-                                    Je suis à la recherche de nouvelles opportunités à partir de juin 2022
+                                    Je suis à la recherche de nouvelles opportunités dès aujourd'hui
                                     
                                 </p>
                                 <p class="lead">
 
-                                    Je termine actuellement un double cursus ingénieur / designer. 
-                                    Après avoir complété mon master 2 à de l'Ecole Centrale d’Electronique (ECE) de
-                                    Paris ; au sein de la majeure "Objets Connectés Réseaux et Services". Au travers de celle-ci, j'ai
-                                    pu me perfectionner en développement informatique, ainsi qu'acquérir de nombreuses connaissances utiles via
-                                    des cours de gamification, de design thinking, et de gestion de projet.
+                                    Diplômé d’un double cursus ingénieur designer, je cherche à continuer de 
+                                    développer mes connaissances dans le milieu des nouvelles technologies, 
+                                    à l’interface de la technique et de l’UX.
                                 </p>
                                 
                             </div>
@@ -1188,7 +1186,7 @@
                                         <li><a href="https://www.linkedin.com/in/victor-aymard-324b75150/" target="_blank"><span class="ico-circle"><i class="ion-social-linkedin"></i></span></a></li>
                                         <li><a href="https://github.com/victoraymard" target="_blank"><span class="ico-circle"><i class="ion-social-github"></i></span></a></li>
                                         <li><a href="https://dribbble.com/bosetti" target="_blank"><span class="ico-circle"><i class="ion-social-dribbble"></i></span></a></li>
-                                        <li><a href="https://dribbble.com/bosetti" target="_blank"><span class="ico-circle"><i class="ion-social-light"></i></span></a></li>
+                                        <!--<li><a href="https://dribbble.com/bosetti" target="_blank"><span class="ico-circle"><i class="ion-social-light"></i></span></a></li>-->
                                         <!--<li><a href="https://www.figma.com/file/LR7hW60ABtO3afVE8afa6x/portoflio-victor-aymard?node-id=0%3A1" target="_blank"><span class="ico-circle"><i class="ion-social-figma"></i></span></a></li>-->
                                     </ul>
                                 </div>
