@@ -556,13 +556,13 @@
             <div class="col-md-4">
                 <div class="work-box-btn flex">
                     
-                    <!--<a href="./projects.html" class="work-content"  data-toggle="modal" data-target="#bientot" style="display:flex; justify-content:center">
-                        <p>Voir tout</p>
-                    </a>-->
-
-                    <a href="./projects.html" class="work-content"   style="display:flex; justify-content:center">
+                    <a href="./projects.html" class="work-content"  data-toggle="modal" data-target="#bientot" style="display:flex; justify-content:center">
                         <p>Voir tout</p>
                     </a>
+
+                    <!--<a href="./projects.html" class="work-content"   style="display:flex; justify-content:center">
+                        <p>Voir tout</p>
+                    </a>-->
                 </div>
             </div>
 
