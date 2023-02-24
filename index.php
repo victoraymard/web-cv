@@ -1321,8 +1321,9 @@
                                         <li><a href="https://www.linkedin.com/in/victor-aymard-324b75150/" target="_blank"><span class="ico-circle"><i class="ion-social-linkedin"></i></span></a></li>
                                         <li><a href="https://github.com/victoraymard" target="_blank"><span class="ico-circle"><i class="ion-social-github"></i></span></a></li>
                                         <li><a href="https://dribbble.com/bosetti" target="_blank"><span class="ico-circle"><i class="ion-social-dribbble"></i></span></a></li>
-                                        <li><a href="https://lightroom.adobe.com/u/victoraymard1?_branch_match_id=1039256390890409112&_open_delay_ms=3000&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXz8lMzygpys%2FP1UssKNDLyczL1k%2F2TjKtTDaMCMtPAgARGV%2BqJgAAAA%3D%3D" target="_blank"><span class="ico-circle"><i class="ion-social-light"><img src="img/ligthroom.png" style="max-height: 21px; position: relative; top: -2px" ></i></span></a></li>
+                                        <!--<li><a href="https://lightroom.adobe.com/u/victoraymard1?_branch_match_id=1039256390890409112&_open_delay_ms=3000&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXz8lMzygpys%2FP1UssKNDLyczL1k%2F2TjKtTDaMCMtPAgARGV%2BqJgAAAA%3D%3D" target="_blank"><span class="ico-circle"><i class="ion-social-light"><img src="img/ligthroom.png" style="max-height: 21px; position: relative; top: -2px" ></i></span></a></li>-->
                                         <!--<li><a href="https://www.figma.com/file/LR7hW60ABtO3afVE8afa6x/portoflio-victor-aymard?node-id=0%3A1" target="_blank"><span class="ico-circle"><i class="ion-social-figma"></i></span></a></li>-->
+                                        <!--lien malt-->
                                     </ul>
                                 </div>
                             </div>
