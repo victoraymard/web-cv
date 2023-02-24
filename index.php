@@ -556,7 +556,7 @@
                 <div class="work-box flex">
                     
                     <a href="./projects.html" class="work-content"  data-toggle="modal" data-target="#bientot" style="display:flex; justify-content:center">
-                        <p>Voir tout</p>
+                        <h2 class="w-title">Voir tout</h2>
                     </a>
                 </div>
             </div>
@@ -1077,7 +1077,7 @@
             </div>
             <div class="modal-body text-justify flex">
                 <div>
-                    Page en cours de rédaction, elle sera disponible d’ici quelques jours !
+                    Page en cours de rédaction, patience elle sera binetôt disponible !
                     <br></br>
                     Si vous voulez en savoir plus, n’hésitez pas à me contacter.
                 </div><br>
