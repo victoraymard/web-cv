@@ -868,7 +868,7 @@
                     <br></br>
                     En plus de m’investir en tant que membre actif au sein différentes associations, j’ai également 
                     endossé le rôle de trésorier de la JBTV durant 1 an.-->
-                    <button type="button" class="" data-toggle="modal" data-target="#assoModal">En savoir plus</button>
+                    <!--<button type="button" class="" data-toggle="modal" data-target="#assoModal">En savoir plus</button>-->
                 
                 </p>
             </blockquote>
@@ -915,7 +915,7 @@
                 captations vidéos et la gestion des réseaux sociaux et de la communication au sens plus large.
                 <br></br>-->
                 
-                <button type="button" class="" data-toggle="modal" data-target="#jbtvModal">En savoir plus</button>
+                <!--<button type="button" class="" data-toggle="modal" data-target="#jbtvModal">En savoir plus</button>-->
                 Pour en savoir plus :
                 </p>
                 <div class="d-flex justify-content-start">
@@ -937,7 +937,7 @@
                 Depuis mon passage au sein de l’association d’audio visuel de l’ECE :  la JBTV, j’ai découvert un vrai hobbie 
                 dans le fait de faire de la photo et de la vidéo. Vous me verrez d’ailleurs rarement sans un appareil sur moi !
                 </p>
-                <button type="button" class="" data-toggle="modal" data-target="#jbtvModal">En savoir plus</button>
+                <!--<button type="button" class="" data-toggle="modal" data-target="#jbtvModal">En savoir plus</button>-->
             </blockquote>
             </div>
         </div>  <!-- .item -->
